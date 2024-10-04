@@ -1,0 +1,1001 @@
+UserID,FamilySize,GenderPreference,AgePreference,IndoorActivity,OutdoorActivity,FoodPreference,Religious,Race,Rationality,Budget,Location,DurationOfStay,NumberOfPlaces
+1,5,"Male","Young","Billiards;Pool;Pool","Snowboard;Hiking","Taiwanese;Korean;Korean",false,White,2.0311451857611194,2845,Australia,18,8
+2,3,"Male","Young","Board Games;Pool;Card Games","Biking;Trail Running;Hiking","Japanese;American;Japanese;Vietnamese",true,Indian,1.3390352289537222,2604,North America,28,2
+3,5,"Female","Middle-aged","Movie Theater;Movie Theater","Biking;Trail Running;Snowboard","Chinese;Korean;American;Mexican",false,Asian,1.138395344696939,2162,Europe,12,7
+4,1,"No preference","Young","Pool;Card Games","Biking;Ski;Ski","Italian;Thai;Thai",false,Hispanic,1.5193110487338661,9765,South America,27,4
+5,5,"No preference","Middle-aged","Movie Theater;Swimming;Pool","Hiking;Biking;Hiking","Italian;Italian;Thai",true,Latino,1.1208727247024193,4902,North America,7,2
+6,2,"Male","Senior","Board Games;Pool","Ski;Hiking","Italian;Italian;Korean",false,White,0.18730320266926198,9176,South America,4,4
+7,5,"Female","Young","Board Games;Board Games","Ski;Sightseeing","Mexican;Italian",true,Indian,1.371765930784861,4098,Asia,25,7
+8,4,"Female","Middle-aged","Card Games;Swimming","Snowboard;Biking","Korean;Mexican",true,Other,0.7854340830259511,6623,North America,13,4
+9,1,"No preference","Middle-aged","Pool;Museum","Trail Running;Ski;Biking","Italian;Italian;Mexican",false,Asian,0.4425851494168105,1004,Africa,20,4
+10,2,"No preference","Senior","Board Games;Billiards;Board Games","Ski;Snowboard;Sightseeing","Taiwanese;Korean",true,Hispanic,0.0605372275521901,3762,South America,21,4
+11,3,"Female","Middle-aged","Museum;Pool;Board Games","Snowboard;Hiking;Sightseeing","Taiwanese;Korean",true,Other,3.0623504867215368,8623,Europe,10,4
+12,2,"No preference","Young","Billiards;Pool","Snowboard;Hiking;Sightseeing","American;Chinese",true,Indian,1.323198452218368,5299,Europe,25,4
+13,1,"Male","Young","Movie Theater;Museum","Sightseeing;Ski;Ski","Mexican;American;Italian;American",true,Latino,0.49263638172833474,8755,South America,19,7
+14,1,"No preference","Middle-aged","Billiards;Billiards;Museum","Road Running;Hiking;Sightseeing","Korean;Chinese;Thai",false,Latino,0.7478251881517742,9205,Africa,26,1
+15,2,"Female","Senior","Card Games;Card Games","Trail Running;Road Running;Sightseeing","Japanese;Thai;Japanese;Thai",false,White,0.16766691780800047,4585,North America,22,10
+16,2,"Male","Middle-aged","Board Games;Pool","Biking;Biking;Sightseeing","Thai;Mexican;Chinese",true,Indian,0.3466243225249651,6178,Europe,13,2
+17,2,"Male","Middle-aged","Swimming;Billiards;Board Games","Hiking;Hiking","American;Taiwanese",true,Black,0.3571443708192853,3548,South America,4,8
+18,1,"No preference","Senior","Board Games;Card Games","Sightseeing;Biking","Thai;Taiwanese;American",false,Asian,2.394277042884517,8852,Asia,13,7
+19,1,"Male","Senior","Movie Theater;Movie Theater","Biking;Hiking","American;Vietnamese;Vietnamese",true,Other,0.5907718282556726,1135,South America,17,10
+20,5,"Male","Senior","Movie Theater;Museum;Card Games","Hiking;Snowboard;Biking","Japanese;Italian",false,Black,0.2667896817126976,7429,North America,12,9
+21,3,"No preference","Senior","Museum;Museum","Ski;Ski","Italian;Vietnamese",true,White,0.2914362552562039,4873,South America,17,4
+22,3,"No preference","Senior","Billiards;Pool","Trail Running;Biking;Sightseeing","Italian;Taiwanese",true,White,9.17126642056016,9178,Europe,17,5
+23,5,"Female","Senior","Billiards;Museum","Snowboard;Biking;Trail Running","Thai;Taiwanese;Mexican",false,Black,0.06588394292051958,2341,Australia,17,9
+24,3,"Female","Young","Swimming;Card Games","Hiking;Ski","Korean;Italian;Taiwanese",false,Other,3.109667887949469,4160,Asia,3,7
+25,2,"Female","Middle-aged","Museum;Card Games","Biking;Trail Running","Japanese;Japanese;Thai;Thai",true,Hispanic,0.021019941513507556,7355,Australia,30,2
+26,2,"Female","Young","Billiards;Swimming","Hiking;Road Running;Snowboard","American;Mexican;Vietnamese",false,Indian,1.3632197084842719,1862,South America,25,7
+27,4,"Female","Senior","Pool;Card Games;Board Games","Ski;Trail Running;Trail Running","Vietnamese;Japanese;Italian",false,Hispanic,1.0432263997108986,3809,Australia,3,3
+28,1,"No preference","Young","Billiards;Card Games","Snowboard;Sightseeing","Vietnamese;Taiwanese;Korean",true,Hispanic,0.5042669427507296,3532,Australia,19,1
+29,4,"Male","Young","Movie Theater;Card Games;Board Games","Road Running;Road Running","American;Korean",true,Other,3.730763465282253,3270,Asia,24,5
+30,1,"Male","Senior","Card Games;Card Games","Trail Running;Snowboard;Sightseeing","Taiwanese;Italian;Vietnamese",true,Hispanic,1.2921020482727659,8688,South America,6,1
+31,3,"Male","Middle-aged","Board Games;Swimming;Pool","Sightseeing;Ski;Biking","Mexican;Korean;Italian",true,Black,0.030951408336790606,4021,Africa,10,4
+32,2,"Male","Young","Billiards;Museum;Movie Theater","Hiking;Sightseeing","Taiwanese;Chinese;Italian",true,Asian,1.1751470867341605,1223,Europe,27,2
+33,1,"Male","Middle-aged","Museum;Museum","Snowboard;Sightseeing","Vietnamese;Mexican",true,Black,1.2560913746003712,6216,Australia,30,1
+34,5,"Male","Senior","Board Games;Billiards;Movie Theater","Biking;Ski;Hiking","Vietnamese;American",false,White,0.639798035421617,2375,South America,27,3
+35,3,"No preference","Middle-aged","Billiards;Board Games;Movie Theater","Snowboard;Road Running;Biking","Chinese;American",true,Latino,1.192361619199727,1826,South America,20,4
+36,2,"Female","Senior","Board Games;Card Games","Sightseeing;Ski","Japanese;Korean",false,Latino,0.04563890360692365,9441,Asia,14,8
+37,1,"Female","Senior","Pool;Pool;Movie Theater","Biking;Ski;Ski","Vietnamese;Italian;Korean;Italian",true,White,1.2853307494146988,1798,South America,1,7
+38,4,"Female","Senior","Board Games;Movie Theater;Pool","Road Running;Hiking","American;Vietnamese",false,Latino,0.07305253118261851,3010,Asia,25,10
+39,5,"No preference","Middle-aged","Billiards;Billiards","Road Running;Biking;Hiking","American;Thai",true,White,0.7525054440523196,1616,Europe,28,3
+40,4,"Male","Young","Pool;Swimming;Movie Theater","Road Running;Road Running;Ski","Korean;Taiwanese",true,Indian,2.077203150329624,7981,Africa,29,1
+41,2,"Male","Young","Board Games;Pool;Movie Theater","Snowboard;Biking;Biking","Japanese;Vietnamese",true,Black,0.3742028134606749,8978,Europe,4,6
+42,4,"No preference","Middle-aged","Museum;Swimming;Pool","Biking;Ski","Mexican;Italian;Thai",false,Other,0.13456565410565952,6482,Asia,12,10
+43,5,"Male","Middle-aged","Movie Theater;Pool;Swimming","Biking;Hiking","Mexican;Italian;Taiwanese",true,White,2.5128139207204727,5420,Asia,15,3
+44,2,"Male","Young","Card Games;Board Games","Hiking;Ski","Italian;Chinese;Taiwanese;American",true,Asian,0.6872018850348144,9783,North America,23,7
+45,5,"Male","Young","Board Games;Swimming","Hiking;Hiking","American;Chinese;Korean;Italian",false,Hispanic,1.4329603087819993,4475,Europe,15,4
+46,3,"No preference","Middle-aged","Museum;Pool;Museum","Biking;Hiking","Japanese;Vietnamese;Italian;Japanese",true,Other,1.4091552250708332,2822,South America,30,6
+47,3,"No preference","Young","Museum;Swimming","Biking;Ski","Korean;American;Taiwanese",true,Other,2.2864170033145643,4543,South America,21,7
+48,3,"No preference","Middle-aged","Card Games;Museum","Biking;Road Running;Sightseeing","Vietnamese;Japanese;Chinese",true,Other,0.36909417908944514,7639,Africa,3,8
+49,4,"Male","Young","Museum;Swimming","Road Running;Ski;Ski","Thai;American",false,Indian,0.3469756274537339,4102,Europe,26,4
+50,1,"No preference","Senior","Pool;Movie Theater","Trail Running;Biking","Thai;American;Japanese;Vietnamese",true,Hispanic,0.8178988587104613,6983,Europe,10,3
+51,4,"Male","Senior","Museum;Pool;Billiards","Sightseeing;Snowboard;Trail Running","Korean;Italian;Vietnamese",false,Indian,1.4109650785235839,4705,Asia,5,1
+52,2,"Female","Young","Swimming;Pool","Sightseeing;Snowboard","Mexican;Vietnamese;Thai",false,Asian,2.019372789682964,9420,North America,25,6
+53,3,"Female","Middle-aged","Pool;Board Games;Billiards","Ski;Road Running;Sightseeing","American;Japanese;Italian",false,White,2.4594217747229834,9301,Asia,19,6
+54,2,"Female","Senior","Billiards;Billiards;Board Games","Ski;Hiking","Japanese;Italian;Mexican;Vietnamese",false,Asian,0.42449809294184077,8012,Australia,2,2
+55,4,"Male","Young","Museum;Movie Theater","Road Running;Trail Running","Japanese;Vietnamese;Korean",true,Other,1.730613888641303,2160,Australia,28,1
+56,2,"Female","Middle-aged","Billiards;Pool","Sightseeing;Hiking;Trail Running","Italian;Italian;Vietnamese;Italian",false,Asian,0.45654928017464635,6918,North America,25,1
+57,3,"Male","Senior","Movie Theater;Swimming;Pool","Road Running;Snowboard","Vietnamese;Korean;Italian",true,Indian,0.532395752695066,4368,Africa,2,6
+58,1,"No preference","Middle-aged","Board Games;Board Games","Sightseeing;Sightseeing;Snowboard","Vietnamese;Thai",true,Latino,0.4809992950013587,1276,North America,11,4
+59,5,"Male","Senior","Swimming;Card Games;Board Games","Ski;Hiking;Road Running","Taiwanese;Vietnamese;Mexican",false,Indian,2.597248000530487,8391,North America,16,2
+60,4,"No preference","Senior","Billiards;Billiards","Snowboard;Road Running","Korean;Chinese",false,Hispanic,0.3169008194582525,8340,Africa,1,3
+61,2,"Female","Young","Board Games;Pool","Sightseeing;Sightseeing;Snowboard","Vietnamese;Taiwanese;Thai;Thai",false,Black,0.12286280970978392,1984,Europe,19,9
+62,4,"Female","Senior","Billiards;Pool","Trail Running;Ski","American;Thai;Mexican",false,White,0.19559266443299278,6495,Australia,21,6
+63,3,"No preference","Middle-aged","Museum;Movie Theater","Road Running;Ski;Ski","Vietnamese;Italian;Chinese",true,Other,1.0066350442297922,4460,Africa,4,6
+64,4,"Female","Young","Swimming;Card Games","Trail Running;Sightseeing","Taiwanese;Vietnamese;Vietnamese;Italian",true,Indian,0.3614619865738356,5297,Asia,16,5
+65,3,"No preference","Young","Billiards;Swimming","Sightseeing;Trail Running","Japanese;Italian;Korean;Japanese",false,Other,1.610864432517007,6319,Australia,14,5
+66,4,"No preference","Young","Movie Theater;Museum;Pool","Trail Running;Hiking;Snowboard","Korean;Taiwanese",true,Asian,2.2395634962323525,9930,North America,27,4
+67,2,"Female","Senior","Board Games;Board Games;Board Games","Hiking;Sightseeing","Italian;Italian;Italian;Vietnamese",false,Other,2.629339151309387,7447,Asia,21,1
+68,3,"No preference","Senior","Card Games;Card Games;Museum","Road Running;Road Running","Italian;Korean;Italian",true,Black,0.2863853763950575,9022,Australia,23,6
+69,5,"Female","Middle-aged","Card Games;Board Games","Trail Running;Road Running","Mexican;Italian;Chinese",false,White,0.2502840575725938,9798,Australia,2,10
+70,1,"Male","Middle-aged","Swimming;Board Games;Card Games","Hiking;Snowboard;Trail Running","American;Taiwanese;Vietnamese",true,Hispanic,0.5480347727083532,9282,Australia,2,7
+71,1,"Female","Senior","Movie Theater;Pool","Snowboard;Snowboard;Snowboard","Italian;American",true,Indian,0.840550677532747,4772,North America,10,8
+72,3,"No preference","Senior","Card Games;Billiards","Ski;Sightseeing;Road Running","Vietnamese;Thai;Chinese",false,Asian,0.37114857415716695,1619,Africa,17,7
+73,3,"No preference","Senior","Swimming;Card Games;Pool","Sightseeing;Biking;Sightseeing","Italian;Italian",false,White,1.7922943922865344,4715,South America,27,2
+74,3,"Male","Middle-aged","Billiards;Museum","Sightseeing;Hiking","Japanese;Taiwanese",true,White,0.6502202155440814,9582,Asia,7,8
+75,4,"Female","Senior","Pool;Swimming","Biking;Ski;Ski","Japanese;American",false,Indian,0.10181148360931845,4560,South America,21,8
+76,4,"Female","Young","Museum;Card Games","Ski;Road Running","Korean;American;Vietnamese",false,Asian,0.5115897672447725,5672,Europe,8,8
+77,4,"No preference","Young","Billiards;Board Games","Road Running;Biking;Biking","Mexican;Taiwanese;Mexican",true,Indian,0.41958505629975207,1482,Australia,8,8
+78,5,"Male","Senior","Movie Theater;Card Games;Card Games","Biking;Hiking;Ski","Mexican;Korean",false,Hispanic,0.570283791335149,5749,Africa,20,7
+79,4,"Female","Middle-aged","Board Games;Card Games","Sightseeing;Road Running","Japanese;Thai",true,Other,1.5824344265896557,6061,South America,2,10
+80,2,"Female","Senior","Board Games;Museum;Museum","Ski;Trail Running;Road Running","Thai;Korean;Taiwanese",false,Hispanic,0.23523996292040308,3644,Australia,1,2
+81,2,"Female","Middle-aged","Pool;Card Games;Board Games","Sightseeing;Sightseeing;Trail Running","Japanese;Japanese;Korean",true,Black,0.2093942117506112,6509,Africa,10,7
+82,1,"No preference","Senior","Board Games;Swimming","Ski;Hiking;Trail Running","Mexican;Vietnamese;Italian;Italian",false,Asian,4.572968379781419,7313,Australia,29,6
+83,4,"Female","Middle-aged","Museum;Board Games;Billiards","Biking;Sightseeing","Vietnamese;Mexican;Italian;Chinese",false,Latino,0.5566959529212989,5894,North America,29,10
+84,3,"Male","Senior","Museum;Pool","Snowboard;Hiking;Hiking","Japanese;American",false,White,0.29760150068896946,6729,Africa,7,8
+85,3,"No preference","Young","Billiards;Swimming;Museum","Ski;Road Running","Japanese;Japanese",false,Black,1.515556622265325,4037,North America,15,8
+86,3,"Male","Senior","Movie Theater;Card Games;Movie Theater","Biking;Snowboard","Japanese;Mexican",true,Latino,1.1580383853222622,8363,Europe,24,5
+87,1,"Female","Middle-aged","Pool;Museum","Biking;Hiking","Korean;American;Taiwanese",true,Asian,0.1242017658996809,7150,Australia,14,1
+88,2,"Male","Senior","Movie Theater;Movie Theater","Hiking;Snowboard;Biking","Japanese;Italian;Japanese",true,White,0.4867757892632982,2779,Asia,21,1
+89,1,"Male","Senior","Board Games;Pool","Ski;Trail Running","Japanese;Taiwanese",true,Indian,0.01779729611801771,7008,North America,21,4
+90,1,"No preference","Middle-aged","Pool;Museum","Sightseeing;Ski;Sightseeing","Chinese;Vietnamese;Vietnamese;Taiwanese",false,Indian,1.590109075379545,7868,Africa,18,3
+91,5,"No preference","Senior","Movie Theater;Movie Theater","Biking;Ski;Sightseeing","Mexican;American;Japanese",true,White,0.5515257295072027,9666,North America,6,10
+92,2,"Male","Senior","Museum;Movie Theater;Board Games","Snowboard;Biking;Road Running","Italian;Chinese;Korean",false,Indian,0.2988393383467047,3478,South America,6,1
+93,3,"No preference","Middle-aged","Swimming;Card Games","Sightseeing;Hiking","Mexican;Italian;Chinese",true,White,0.2174037977726,3233,South America,13,3
+94,4,"Male","Young","Swimming;Pool;Museum","Road Running;Road Running;Sightseeing","Thai;Italian",true,Hispanic,0.44794668273064603,4277,South America,1,1
+95,2,"No preference","Senior","Billiards;Billiards","Trail Running;Sightseeing","Japanese;Japanese;American;Japanese",false,Black,0.009131680801521288,6108,Asia,15,9
+96,3,"Female","Senior","Movie Theater;Billiards;Card Games","Trail Running;Biking;Hiking","Mexican;American;Chinese;Korean",true,Indian,0.1626859604606758,7948,Europe,1,3
+97,3,"Male","Senior","Board Games;Museum;Pool","Sightseeing;Ski;Sightseeing","Taiwanese;Chinese;Thai",false,Other,0.568195874252988,1459,Australia,30,4
+98,3,"Male","Young","Card Games;Museum","Road Running;Snowboard","Chinese;American;Taiwanese;Japanese",false,White,0.17519386993791322,9425,Africa,13,9
+99,4,"No preference","Senior","Card Games;Museum","Road Running;Biking","Taiwanese;Mexican;Chinese;Mexican",false,Asian,1.843229762762769,4289,Australia,25,5
+100,1,"Male","Middle-aged","Movie Theater;Movie Theater;Billiards","Snowboard;Ski","Chinese;Mexican;Mexican;Thai",false,Asian,1.1940345690560084,1767,Africa,28,7
+101,4,"Male","Middle-aged","Museum;Movie Theater","Hiking;Biking;Trail Running","Korean;Italian;American;Mexican",true,Other,0.01131360297302689,2735,Asia,20,3
+102,3,"Male","Young","Swimming;Card Games;Museum","Snowboard;Snowboard;Trail Running","Chinese;Mexican;Chinese;Taiwanese",false,Hispanic,0.988865246204396,3968,Africa,27,2
+103,5,"Female","Young","Swimming;Movie Theater","Ski;Biking","Italian;Taiwanese",false,Indian,0.48324221272247037,5857,Australia,6,5
+104,1,"Male","Young","Board Games;Billiards","Biking;Biking;Sightseeing","Taiwanese;Chinese;Japanese",true,Indian,0.7532813315485906,6601,Australia,7,10
+105,5,"No preference","Senior","Board Games;Movie Theater","Ski;Biking","Chinese;Chinese",true,Indian,0.1998799095693445,6230,Africa,26,8
+106,4,"No preference","Senior","Board Games;Swimming;Card Games","Ski;Biking","Mexican;Italian;Mexican;Thai",false,Black,0.905814919819878,7064,Africa,28,8
+107,2,"Male","Young","Museum;Swimming;Card Games","Hiking;Hiking;Trail Running","Mexican;Japanese;Chinese",false,Other,2.685553115156305,6459,Asia,27,5
+108,1,"Male","Young","Museum;Billiards","Sightseeing;Trail Running","Japanese;Italian",true,White,0.26390395649332843,8414,Australia,3,1
+109,3,"No preference","Senior","Pool;Pool","Trail Running;Hiking;Biking","Thai;Mexican;American;Japanese",false,Other,2.852962445715657,6107,South America,3,6
+110,4,"Male","Senior","Board Games;Museum;Board Games","Trail Running;Sightseeing;Road Running","Vietnamese;Chinese;Taiwanese",false,Latino,0.028377463626346102,3121,Africa,4,8
+111,2,"No preference","Middle-aged","Pool;Museum","Hiking;Sightseeing","Japanese;Italian;Italian",true,White,0.7052214088165268,5550,South America,24,1
+112,5,"Female","Middle-aged","Card Games;Billiards","Ski;Snowboard","Italian;American",true,Other,2.740000581709214,3663,Europe,28,4
+113,4,"No preference","Senior","Billiards;Swimming;Board Games","Biking;Snowboard","Mexican;Vietnamese",false,Hispanic,1.2149632664938126,8803,Europe,19,2
+114,1,"Female","Middle-aged","Card Games;Card Games;Pool","Biking;Ski;Trail Running","American;Korean;Vietnamese;American",true,Latino,0.2562681847989766,6646,Europe,7,1
+115,4,"No preference","Middle-aged","Swimming;Billiards","Hiking;Hiking;Snowboard","Mexican;Thai;Japanese;Italian",false,Latino,4.408670236185702,4562,Africa,5,6
+116,4,"No preference","Middle-aged","Swimming;Movie Theater;Swimming","Ski;Biking;Biking","Japanese;Korean;Japanese",false,Latino,2.290852286047313,1518,Europe,21,10
+117,5,"Male","Middle-aged","Movie Theater;Swimming;Pool","Ski;Sightseeing","Italian;Italian",false,Indian,0.7701564898108543,7984,Australia,20,10
+118,4,"No preference","Senior","Card Games;Swimming","Biking;Ski","Thai;Korean",false,White,0.30590798503969735,5198,Europe,20,8
+119,4,"Male","Senior","Swimming;Movie Theater","Trail Running;Road Running;Ski","Japanese;Korean;Italian;Korean",false,Indian,4.929708384686651,6612,Europe,20,8
+120,1,"No preference","Senior","Swimming;Billiards;Card Games","Snowboard;Snowboard","Vietnamese;Mexican",false,Indian,0.3517179894311461,3137,Europe,11,7
+121,2,"Female","Middle-aged","Museum;Swimming;Billiards","Biking;Trail Running","Korean;Japanese;Mexican",false,Asian,0.5371068457339946,5718,Asia,18,5
+122,2,"Male","Young","Card Games;Card Games;Movie Theater","Sightseeing;Hiking","Vietnamese;Mexican;Mexican;Vietnamese",false,White,3.3073476022759083,7133,North America,18,7
+123,4,"No preference","Young","Card Games;Movie Theater;Board Games","Snowboard;Sightseeing;Snowboard","Korean;Mexican;Thai",false,Latino,0.8841193470331522,5535,Africa,18,3
+124,2,"Male","Young","Movie Theater;Card Games;Swimming","Sightseeing;Hiking;Ski","Italian;Mexican;Chinese;Chinese",false,Other,0.8615737195101456,4533,Europe,1,1
+125,3,"Female","Middle-aged","Swimming;Museum;Swimming","Trail Running;Ski;Hiking","Taiwanese;Mexican;Japanese",false,White,1.7921013104902401,4823,Africa,25,10
+126,5,"No preference","Middle-aged","Movie Theater;Movie Theater;Pool","Sightseeing;Trail Running;Biking","Chinese;Mexican",false,White,3.3253577605443145,9049,Australia,6,3
+127,2,"Male","Senior","Board Games;Museum","Ski;Trail Running;Trail Running","Thai;Korean;Mexican",true,Asian,2.6831792637035035,8242,North America,27,4
+128,4,"Male","Middle-aged","Board Games;Swimming","Trail Running;Sightseeing","Italian;Taiwanese",true,White,0.1534907596106231,5560,North America,11,4
+129,4,"Female","Young","Movie Theater;Swimming","Road Running;Sightseeing;Biking","Japanese;Thai;Italian;American",false,Latino,2.1819157779341056,9374,Africa,11,2
+130,2,"Female","Senior","Board Games;Museum;Movie Theater","Trail Running;Sightseeing","Italian;Taiwanese;Italian",false,Asian,2.007815472852024,5053,Africa,25,8
+131,2,"Male","Middle-aged","Swimming;Museum","Sightseeing;Ski;Snowboard","Mexican;Taiwanese;Taiwanese;Taiwanese",false,Asian,0.17917511009242906,9525,Africa,4,5
+132,2,"No preference","Middle-aged","Billiards;Billiards;Board Games","Hiking;Ski","Mexican;Italian;Taiwanese",true,Other,0.15792452221397615,5302,Australia,17,6
+133,3,"Male","Young","Swimming;Board Games","Ski;Snowboard","Korean;Mexican",false,Latino,0.6114602687119737,3970,Asia,16,4
+134,2,"Male","Young","Board Games;Pool","Snowboard;Trail Running","Mexican;American;Italian;American",true,Latino,1.4694915236949273,4137,North America,1,5
+135,1,"Male","Senior","Museum;Swimming","Sightseeing;Ski","Taiwanese;American",false,Black,0.5456253411220552,2740,North America,4,8
+136,5,"Male","Young","Movie Theater;Swimming","Snowboard;Snowboard;Snowboard","American;Mexican",true,Latino,0.25325269484601776,4958,Europe,5,2
+137,1,"No preference","Middle-aged","Billiards;Pool","Road Running;Sightseeing;Snowboard","Korean;Italian;Chinese",false,Latino,0.860983586923302,6091,Asia,13,7
+138,4,"Male","Middle-aged","Movie Theater;Card Games;Board Games","Trail Running;Trail Running;Road Running","Vietnamese;Thai",true,Indian,0.04015886102843627,1631,South America,5,1
+139,3,"Female","Young","Swimming;Museum","Ski;Road Running;Sightseeing","Thai;Chinese;American",false,Black,0.23460743340954104,9326,Europe,8,7
+140,1,"Female","Senior","Pool;Movie Theater","Road Running;Snowboard","Italian;Taiwanese;Korean",false,Hispanic,0.06047926484969049,5328,Africa,10,8
+141,4,"Female","Senior","Billiards;Board Games;Billiards","Biking;Ski","Taiwanese;Vietnamese;Taiwanese;Japanese",true,Black,0.28641593539642535,3290,South America,3,2
+142,3,"Male","Young","Movie Theater;Swimming;Board Games","Biking;Biking","American;Italian",false,Latino,0.21010188249903147,2603,Africa,3,3
+143,2,"No preference","Middle-aged","Card Games;Pool","Road Running;Road Running;Trail Running","Japanese;Japanese",true,Other,1.9578882888408595,2525,Africa,4,10
+144,2,"Male","Young","Pool;Movie Theater;Card Games","Hiking;Ski;Trail Running","Vietnamese;Thai",false,White,0.15956957146381553,5029,Asia,23,8
+145,3,"Female","Senior","Board Games;Pool","Snowboard;Snowboard;Biking","Italian;Chinese",true,Hispanic,1.5220598318155638,8318,Europe,9,6
+146,5,"Male","Senior","Billiards;Movie Theater","Biking;Hiking","American;Thai;Italian;American",false,Asian,0.34919129702364815,2032,Asia,27,2
+147,4,"Female","Middle-aged","Museum;Pool;Museum","Biking;Road Running;Hiking","Vietnamese;Korean",true,Hispanic,0.636964661040194,2533,South America,16,1
+148,1,"No preference","Middle-aged","Card Games;Museum","Snowboard;Road Running","Thai;Japanese",true,Latino,0.8569886769366367,2382,North America,10,1
+149,2,"Female","Middle-aged","Card Games;Swimming","Trail Running;Snowboard;Sightseeing","Vietnamese;Mexican;American;American",false,Indian,0.5403345497404581,6489,South America,13,10
+150,5,"Male","Senior","Museum;Billiards;Swimming","Biking;Biking","Taiwanese;Italian;Taiwanese;Mexican",true,Hispanic,0.34131507100441555,3928,South America,10,5
+151,2,"Female","Senior","Card Games;Card Games","Trail Running;Biking;Ski","Chinese;Taiwanese",true,Other,0.8206560940848164,3828,Asia,24,2
+152,3,"No preference","Young","Swimming;Card Games;Card Games","Snowboard;Ski;Sightseeing","Japanese;Korean;Italian",true,White,0.09134772687442141,4991,Asia,5,7
+153,5,"Female","Senior","Board Games;Swimming","Ski;Sightseeing;Trail Running","Korean;Vietnamese",false,Asian,0.945976433577202,6024,Europe,17,8
+154,3,"Female","Senior","Swimming;Museum","Trail Running;Road Running;Hiking","Chinese;Vietnamese",true,Hispanic,0.1250523554680212,6304,North America,29,3
+155,1,"No preference","Middle-aged","Billiards;Museum","Ski;Road Running","Taiwanese;Thai;Vietnamese;Japanese",true,Latino,1.8728471200413574,4813,North America,18,7
+156,5,"Female","Young","Board Games;Card Games;Card Games","Hiking;Biking;Hiking","Italian;Chinese;American;Thai",true,White,0.3057228801729155,1037,Europe,5,9
+157,1,"No preference","Senior","Museum;Movie Theater","Road Running;Trail Running","Italian;Korean",false,White,1.4434977572706948,9239,Africa,6,4
+158,4,"No preference","Young","Card Games;Museum;Pool","Hiking;Biking","Mexican;Chinese",true,Indian,0.48016977941381117,2167,Asia,15,5
+159,5,"Male","Senior","Swimming;Card Games;Card Games","Snowboard;Road Running;Biking","Vietnamese;Japanese",false,Hispanic,2.1406693984683844,3432,North America,3,4
+160,3,"Male","Senior","Board Games;Swimming","Biking;Trail Running","Thai;Taiwanese;Chinese;Taiwanese",true,Black,1.491903466149052,3351,North America,6,3
+161,1,"No preference","Young","Movie Theater;Card Games","Road Running;Hiking","Korean;Italian",false,Latino,1.713033361649723,5466,Asia,8,5
+162,4,"Male","Senior","Movie Theater;Movie Theater","Road Running;Biking","Chinese;Vietnamese;Taiwanese",false,Other,0.7978082570512269,8085,Asia,19,10
+163,2,"Female","Middle-aged","Billiards;Board Games","Ski;Biking;Trail Running","Taiwanese;Japanese",false,Asian,1.7660727481157845,5103,Asia,25,1
+164,2,"Female","Young","Board Games;Museum","Biking;Sightseeing;Snowboard","American;Taiwanese;Taiwanese",false,Latino,2.6907801933814928,6531,South America,22,9
+165,1,"Male","Middle-aged","Museum;Museum","Trail Running;Road Running","Chinese;Thai;Chinese",true,Black,1.6235214272410234,8593,Australia,5,8
+166,5,"Male","Senior","Swimming;Museum;Museum","Road Running;Trail Running;Biking","Japanese;Chinese;Chinese",false,Latino,0.18745356573447933,3128,Europe,8,10
+167,3,"No preference","Young","Board Games;Museum","Snowboard;Road Running","Mexican;Thai",true,Black,1.1808089607841907,3074,North America,29,9
+168,3,"Male","Senior","Card Games;Pool","Biking;Snowboard;Biking","Japanese;American",true,Latino,1.0455756492705979,4722,North America,12,5
+169,4,"Female","Senior","Movie Theater;Billiards","Trail Running;Ski","Thai;Taiwanese;Japanese",false,Black,1.7844932927214383,1696,Africa,24,6
+170,1,"Male","Young","Swimming;Pool","Hiking;Hiking","Thai;Japanese;Thai",true,Hispanic,5.51477812380973,7731,South America,4,5
+171,4,"Male","Young","Swimming;Swimming;Pool","Trail Running;Trail Running;Snowboard","Thai;Vietnamese",false,White,1.9713238116927652,4777,South America,23,6
+172,3,"Male","Middle-aged","Billiards;Card Games","Biking;Hiking","Taiwanese;Mexican;Mexican;Italian",false,Other,0.6008904039677803,4207,North America,8,7
+173,5,"Male","Senior","Museum;Pool","Sightseeing;Biking;Sightseeing","Taiwanese;Chinese",false,Indian,0.12109554112860865,8034,Europe,13,10
+174,4,"No preference","Young","Museum;Board Games","Trail Running;Road Running","American;Taiwanese",true,Hispanic,0.25321655421277045,4475,Asia,3,3
+175,5,"Female","Middle-aged","Swimming;Board Games","Road Running;Road Running;Sightseeing","American;Japanese",false,White,0.36117450152528136,7040,Africa,25,1
+176,5,"Female","Middle-aged","Pool;Museum;Movie Theater","Snowboard;Biking;Hiking","Mexican;Japanese",true,White,1.0411328518335188,9513,North America,9,3
+177,3,"No preference","Young","Movie Theater;Museum;Pool","Biking;Hiking","Vietnamese;Italian",false,Indian,1.0514675468672432,9829,South America,14,10
+178,4,"No preference","Senior","Swimming;Movie Theater;Billiards","Road Running;Hiking","Korean;Taiwanese;Mexican;Vietnamese",false,Black,3.240744385707613,1681,Asia,21,10
+179,1,"Female","Middle-aged","Pool;Museum","Trail Running;Snowboard;Biking","American;Vietnamese;Japanese;Taiwanese",false,White,1.9727683085060415,6656,Australia,11,2
+180,1,"No preference","Middle-aged","Billiards;Card Games","Snowboard;Snowboard","Italian;Korean;American;Mexican",false,Indian,0.2851138555722871,1442,Europe,10,7
+181,1,"Male","Young","Billiards;Museum;Museum","Biking;Snowboard;Ski","Mexican;Chinese",true,Other,2.2962289570013117,8210,Africa,16,9
+182,1,"Female","Young","Movie Theater;Museum;Movie Theater","Biking;Snowboard;Hiking","Italian;Italian;Mexican;Chinese",true,Hispanic,1.2464826091695285,3363,Australia,24,10
+183,4,"No preference","Young","Museum;Billiards","Trail Running;Snowboard;Snowboard","Italian;American;Korean;American",true,Black,0.7116686984197369,3171,North America,25,5
+184,5,"No preference","Middle-aged","Card Games;Movie Theater;Billiards","Road Running;Trail Running;Road Running","Taiwanese;Taiwanese;Japanese;Japanese",false,Indian,0.38928872750656646,6421,South America,2,2
+185,2,"No preference","Senior","Card Games;Movie Theater;Swimming","Road Running;Biking;Biking","Mexican;Taiwanese;Italian",true,Indian,2.306003976566567,7595,North America,5,8
+186,3,"Female","Middle-aged","Movie Theater;Swimming;Card Games","Snowboard;Biking;Snowboard","Vietnamese;Thai",false,Asian,1.8314334023810086,8251,North America,26,6
+187,3,"No preference","Middle-aged","Pool;Billiards;Swimming","Trail Running;Biking;Trail Running","Japanese;American;Japanese;American",true,White,2.49078851820033,6483,Europe,22,1
+188,3,"Female","Senior","Movie Theater;Museum","Hiking;Hiking","Japanese;Italian",true,White,0.35730972698851327,1339,South America,27,10
+189,4,"Male","Middle-aged","Museum;Board Games;Museum","Trail Running;Sightseeing;Hiking","Japanese;Japanese",false,Hispanic,0.014890767900175171,8439,Europe,25,8
+190,1,"Male","Senior","Card Games;Pool;Board Games","Biking;Road Running","Korean;Chinese;Taiwanese",true,Hispanic,0.34172064915745276,9558,Asia,30,6
+191,3,"Male","Middle-aged","Movie Theater;Movie Theater","Snowboard;Road Running","Chinese;Korean",true,Hispanic,0.3896243852884919,3751,Africa,28,6
+192,3,"Female","Senior","Pool;Swimming;Card Games","Road Running;Road Running;Road Running","Japanese;Korean",false,Black,1.07521905725217,5952,Australia,9,2
+193,1,"No preference","Senior","Pool;Card Games","Biking;Snowboard","Thai;Korean;Vietnamese",true,Asian,1.5917804976513938,9078,North America,16,10
+194,2,"Male","Middle-aged","Pool;Museum;Swimming","Road Running;Snowboard;Snowboard","Japanese;Chinese",true,Indian,1.131200699635511,5726,Europe,17,9
+195,4,"No preference","Middle-aged","Board Games;Board Games;Board Games","Biking;Road Running;Trail Running","Vietnamese;Taiwanese;Thai",false,Other,4.4568067896508134,1600,Europe,10,2
+196,1,"No preference","Young","Swimming;Billiards","Sightseeing;Trail Running","American;Vietnamese;Thai;Mexican",false,Black,1.0022475689996775,2035,South America,28,1
+197,2,"Female","Young","Movie Theater;Museum","Hiking;Biking","Japanese;American;Taiwanese;Chinese",true,Indian,0.14051059954661405,8469,Australia,29,6
+198,3,"Male","Senior","Billiards;Museum","Hiking;Trail Running;Snowboard","Taiwanese;Korean",true,Black,0.9907685145862377,3074,South America,5,4
+199,3,"Female","Senior","Billiards;Museum","Snowboard;Biking;Trail Running","Thai;Taiwanese",false,Black,1.562090214651509,7526,Asia,24,8
+200,1,"Female","Middle-aged","Swimming;Movie Theater","Trail Running;Sightseeing;Hiking","American;Chinese;Italian;Italian",true,Asian,1.8521117763202946,6728,South America,29,6
+201,3,"Female","Middle-aged","Pool;Card Games;Museum","Hiking;Hiking","Japanese;Taiwanese;Chinese",false,Asian,1.1991424938809945,3575,Africa,11,7
+202,2,"No preference","Senior","Billiards;Board Games","Trail Running;Sightseeing","Vietnamese;Mexican;Korean;Taiwanese",true,Latino,0.9931003877941251,6636,Australia,25,2
+203,2,"Female","Senior","Movie Theater;Movie Theater;Pool","Ski;Hiking;Ski","Vietnamese;Mexican;Mexican",true,Black,0.4296196172107924,8648,Africa,17,8
+204,4,"Female","Middle-aged","Museum;Swimming","Ski;Ski;Road Running","Vietnamese;Thai;Taiwanese",true,Hispanic,0.2594679705793729,8196,South America,7,2
+205,4,"Female","Senior","Billiards;Swimming;Swimming","Biking;Road Running","Chinese;American;Taiwanese",true,Black,0.14567360109958874,9761,Africa,17,7
+206,2,"Female","Senior","Pool;Museum;Movie Theater","Road Running;Sightseeing","American;Japanese",true,Indian,1.7994477524248564,9507,Asia,15,4
+207,5,"No preference","Young","Museum;Swimming","Road Running;Hiking","Taiwanese;Taiwanese;Thai;Japanese",true,Other,0.3749839624462806,3760,Africa,5,5
+208,1,"No preference","Middle-aged","Board Games;Movie Theater;Pool","Snowboard;Snowboard","Korean;Korean;Chinese;Korean",true,Hispanic,0.6519234669944046,9848,Europe,17,2
+209,1,"Female","Middle-aged","Museum;Card Games","Ski;Biking","Thai;Italian;Taiwanese",false,Black,0.3476164324976792,5995,Australia,20,10
+210,2,"Female","Senior","Billiards;Swimming;Swimming","Snowboard;Hiking","Vietnamese;Taiwanese;Mexican",true,Other,0.4732207678790401,1129,Asia,17,2
+211,1,"No preference","Middle-aged","Movie Theater;Pool;Pool","Trail Running;Road Running","Korean;Taiwanese;American",true,Asian,0.7050188663439276,2071,North America,12,1
+212,3,"Female","Senior","Board Games;Card Games","Biking;Road Running;Hiking","Chinese;Japanese",false,Latino,0.10028301979825506,8999,Australia,5,2
+213,4,"Female","Senior","Board Games;Pool;Card Games","Snowboard;Road Running;Road Running","Thai;Mexican;Vietnamese;Vietnamese",false,Black,1.9916907057829112,7756,North America,11,3
+214,3,"No preference","Young","Card Games;Museum;Card Games","Hiking;Snowboard","Italian;Mexican",false,Other,1.2206466143001362,8497,Asia,29,8
+215,4,"Female","Middle-aged","Board Games;Card Games","Sightseeing;Trail Running;Road Running","Italian;Japanese;American;American",false,Indian,2.3397636945549065,2445,North America,12,8
+216,5,"Male","Middle-aged","Billiards;Billiards;Pool","Snowboard;Sightseeing","Vietnamese;American;Mexican",false,Hispanic,0.25988585529934816,9441,Europe,23,3
+217,1,"No preference","Senior","Pool;Movie Theater","Sightseeing;Sightseeing;Hiking","Italian;Japanese;Taiwanese;Taiwanese",true,White,0.3773741887586908,4198,South America,23,10
+218,2,"Male","Young","Card Games;Billiards","Hiking;Sightseeing","Taiwanese;Vietnamese;Italian",false,Black,0.5537805590383196,3713,North America,12,3
+219,3,"Female","Senior","Swimming;Museum;Billiards","Hiking;Road Running;Road Running","American;Taiwanese;Italian",false,Hispanic,0.15539018412430447,8537,South America,2,8
+220,3,"No preference","Young","Swimming;Museum;Swimming","Road Running;Road Running;Trail Running","Chinese;Japanese;Japanese;Chinese",true,Asian,0.3440242724678075,6509,Asia,29,7
+221,5,"Female","Young","Billiards;Swimming","Road Running;Trail Running;Hiking","Chinese;Taiwanese",true,Asian,1.3770288225408003,8032,Africa,20,3
+222,4,"Female","Senior","Board Games;Museum;Swimming","Road Running;Ski","Thai;Chinese;Chinese;Mexican",true,White,4.288257119720207,8408,Europe,9,9
+223,3,"No preference","Young","Swimming;Museum;Billiards","Hiking;Trail Running","Mexican;Mexican;Chinese;Chinese",true,Asian,0.2525748642986432,2665,Europe,9,3
+224,5,"No preference","Senior","Billiards;Billiards","Trail Running;Road Running;Sightseeing","Thai;Thai",false,White,0.23246496417131848,8066,Europe,8,9
+225,4,"No preference","Senior","Swimming;Pool;Pool","Snowboard;Snowboard","Chinese;Italian;Mexican",true,Black,1.9266639345528815,4396,Europe,20,2
+226,4,"No preference","Young","Card Games;Card Games;Board Games","Biking;Snowboard","Taiwanese;Chinese;Taiwanese;Vietnamese",false,Other,0.19925472683732906,5074,South America,3,4
+227,3,"Male","Senior","Card Games;Board Games;Board Games","Road Running;Biking","Vietnamese;American;Korean",false,Other,3.6425824512495026,9887,Africa,1,7
+228,1,"Female","Young","Board Games;Board Games","Road Running;Snowboard","Mexican;Chinese;Vietnamese",true,Indian,1.6612707377681342,1363,South America,27,4
+229,1,"Male","Senior","Pool;Swimming","Trail Running;Sightseeing","Taiwanese;Korean",true,Black,0.3305457824821036,5995,North America,10,8
+230,2,"Female","Young","Card Games;Card Games","Snowboard;Road Running","Taiwanese;Vietnamese;American",true,Other,1.7149028408577691,5449,Asia,28,2
+231,1,"No preference","Senior","Pool;Pool;Swimming","Hiking;Sightseeing","Vietnamese;Chinese",true,Hispanic,1.0417515172834408,8399,Asia,26,2
+232,1,"No preference","Senior","Billiards;Museum","Biking;Hiking","Vietnamese;American;Japanese;Italian",true,Asian,0.638016571129771,5905,South America,25,4
+233,4,"Female","Middle-aged","Movie Theater;Swimming","Ski;Hiking","Thai;Vietnamese;Korean;Thai",true,Hispanic,0.35904955854730425,7546,Africa,15,9
+234,3,"Female","Young","Museum;Movie Theater","Road Running;Ski","Mexican;Chinese;Italian",true,Hispanic,2.5385437903691463,8671,Europe,10,3
+235,1,"Female","Middle-aged","Pool;Board Games","Hiking;Biking;Hiking","Taiwanese;Korean",false,Indian,1.4218616063567735,5692,South America,25,7
+236,4,"Female","Middle-aged","Billiards;Pool;Card Games","Snowboard;Sightseeing","Chinese;Mexican;Korean;Taiwanese",true,White,2.9962833788298338,6270,Africa,8,6
+237,3,"Male","Young","Billiards;Board Games;Pool","Sightseeing;Road Running","Korean;Taiwanese;Italian",true,Other,0.3157028905021868,4587,Europe,25,4
+238,4,"No preference","Senior","Pool;Pool;Pool","Ski;Sightseeing;Road Running","Taiwanese;Thai",false,Latino,0.5132117090575188,9728,Europe,5,4
+239,3,"Female","Middle-aged","Billiards;Board Games","Ski;Trail Running;Snowboard","Thai;American",false,Other,0.2501809785892275,8551,Asia,5,8
+240,5,"No preference","Young","Movie Theater;Museum;Billiards","Ski;Ski","Korean;Korean",true,Asian,0.006681985569215998,9019,Africa,20,3
+241,4,"Female","Middle-aged","Billiards;Movie Theater;Billiards","Snowboard;Sightseeing","American;Italian;American;Korean",false,Hispanic,2.6773441322737237,7747,Africa,8,4
+242,2,"Male","Senior","Billiards;Museum;Board Games","Hiking;Sightseeing","Taiwanese;Mexican",true,Latino,1.367707457467828,8609,Asia,26,10
+243,5,"No preference","Young","Card Games;Card Games;Card Games","Road Running;Hiking","Taiwanese;Mexican",true,Asian,0.4698983124928776,5579,Europe,15,7
+244,4,"Female","Young","Movie Theater;Board Games","Hiking;Trail Running;Sightseeing","Chinese;American",false,Asian,0.2670336917176456,2531,Europe,5,8
+245,5,"Female","Young","Movie Theater;Board Games","Ski;Ski;Hiking","Thai;American",false,White,1.1119962633357319,4382,Europe,3,6
+246,4,"Female","Middle-aged","Billiards;Card Games","Snowboard;Hiking;Hiking","Korean;Taiwanese",false,Other,1.77354962500724,2110,Asia,8,7
+247,3,"Female","Middle-aged","Card Games;Board Games;Billiards","Biking;Hiking","Italian;Thai;American;Taiwanese",true,White,1.1364878389165574,6868,North America,30,7
+248,3,"Male","Middle-aged","Pool;Board Games;Billiards","Ski;Snowboard","Vietnamese;Taiwanese",false,Latino,0.9800287599078993,7874,South America,30,1
+249,1,"No preference","Young","Museum;Card Games","Road Running;Biking;Hiking","Thai;Italian;American",true,Black,0.39751781048561674,4536,North America,29,3
+250,2,"No preference","Young","Card Games;Museum","Snowboard;Snowboard","American;Korean;Vietnamese;Japanese",true,Latino,2.3571604752326927,1620,Africa,24,6
+251,4,"No preference","Young","Board Games;Board Games","Biking;Trail Running;Hiking","American;Thai;Japanese;Thai",true,Hispanic,3.275611190269608,3809,Asia,4,9
+252,3,"Female","Young","Swimming;Card Games","Sightseeing;Road Running","Mexican;American;Italian",false,Asian,0.5922825121964306,2718,Europe,26,1
+253,3,"No preference","Young","Billiards;Swimming","Snowboard;Biking;Trail Running","American;Italian;American",true,Hispanic,1.503212186459984,8465,Europe,17,6
+254,5,"Male","Middle-aged","Swimming;Museum","Ski;Trail Running;Ski","Taiwanese;Mexican",false,Indian,0.09513979581409565,9424,South America,24,2
+255,3,"Female","Middle-aged","Card Games;Movie Theater","Trail Running;Biking;Road Running","American;Italian",false,Latino,1.0637392640941723,1943,Asia,12,4
+256,1,"Male","Young","Billiards;Card Games;Card Games","Road Running;Ski;Ski","American;Japanese;Chinese;Korean",true,Hispanic,1.4160571575987164,9328,Asia,13,2
+257,4,"Male","Young","Billiards;Movie Theater","Biking;Sightseeing","Japanese;Italian;Japanese",false,Black,1.119562045377026,8215,South America,28,5
+258,2,"No preference","Young","Billiards;Board Games","Biking;Snowboard;Biking","Taiwanese;Taiwanese",false,Hispanic,0.34816330461576445,8487,Asia,27,9
+259,4,"Male","Middle-aged","Museum;Board Games;Museum","Road Running;Ski;Road Running","American;Thai;Thai",false,Hispanic,0.1506269189464769,7707,Asia,21,4
+260,4,"No preference","Senior","Movie Theater;Board Games;Pool","Snowboard;Snowboard","Vietnamese;American",true,Indian,0.8018353310534198,8963,South America,3,8
+261,4,"Female","Young","Billiards;Movie Theater;Card Games","Snowboard;Trail Running","American;Taiwanese;Vietnamese",false,Black,0.04887156088447654,9743,Australia,6,10
+262,1,"No preference","Young","Billiards;Card Games","Snowboard;Biking;Road Running","Korean;Thai",false,Other,0.7365212192042541,8390,Australia,25,1
+263,1,"Female","Senior","Swimming;Pool;Movie Theater","Trail Running;Ski","American;Mexican;Taiwanese",false,Asian,0.6430441775921139,8837,South America,28,10
+264,2,"Male","Senior","Movie Theater;Board Games;Board Games","Hiking;Snowboard","Italian;Japanese",false,Hispanic,0.3308876239069012,4996,South America,29,2
+265,4,"Female","Senior","Pool;Movie Theater;Movie Theater","Road Running;Biking;Biking","Thai;Vietnamese",true,Other,0.8325022818164142,3832,Australia,13,9
+266,1,"Male","Senior","Museum;Pool","Road Running;Hiking","Vietnamese;Japanese;Chinese",false,Latino,0.3237522924764208,5996,South America,26,5
+267,4,"No preference","Senior","Card Games;Movie Theater","Road Running;Hiking;Snowboard","Mexican;Japanese;Chinese",true,Hispanic,0.5690861661937537,5804,Asia,29,2
+268,2,"Male","Middle-aged","Pool;Billiards;Card Games","Biking;Biking","Japanese;Chinese;Vietnamese",false,Hispanic,0.33770222402597844,7110,Asia,22,3
+269,5,"Male","Middle-aged","Movie Theater;Billiards","Biking;Biking;Sightseeing","Chinese;Vietnamese",true,Black,1.1752367860521977,9689,Europe,13,7
+270,5,"Male","Senior","Billiards;Billiards;Billiards","Ski;Hiking","Mexican;Korean",true,Other,0.498550814690848,6247,North America,14,2
+271,3,"No preference","Senior","Museum;Museum","Ski;Hiking","Chinese;Korean;Chinese;Italian",true,Other,0.8459548983687301,2288,Asia,26,1
+272,2,"Female","Middle-aged","Billiards;Pool;Board Games","Biking;Hiking","Italian;Vietnamese;Japanese;Italian",true,Latino,0.5403407341764511,1187,Africa,18,2
+273,2,"No preference","Senior","Billiards;Billiards","Biking;Biking","Mexican;Vietnamese",false,White,1.0634219480788019,3725,Australia,1,8
+274,4,"Male","Senior","Billiards;Museum","Sightseeing;Hiking","Italian;Chinese;Thai",false,Black,0.7686962026385126,9916,North America,15,8
+275,1,"No preference","Middle-aged","Card Games;Movie Theater;Pool","Ski;Road Running;Sightseeing","American;Thai;Vietnamese;Korean",true,Indian,1.549377216150651,3146,Australia,26,2
+276,4,"Female","Middle-aged","Movie Theater;Board Games","Snowboard;Sightseeing;Trail Running","Korean;Italian;Chinese;Taiwanese",false,Other,0.41928190759005274,2781,Australia,16,7
+277,4,"No preference","Middle-aged","Board Games;Billiards;Billiards","Sightseeing;Sightseeing","Chinese;Japanese",false,Other,4.8708238943875415,6141,South America,24,1
+278,2,"Male","Young","Museum;Card Games;Billiards","Biking;Biking","Mexican;Thai;Vietnamese;Korean",true,Asian,3.096414793041141,9248,Asia,8,1
+279,2,"Male","Middle-aged","Billiards;Pool;Swimming","Road Running;Snowboard;Road Running","Chinese;Thai",true,Latino,0.36079931773939855,5110,Asia,8,1
+280,3,"Female","Middle-aged","Card Games;Swimming;Pool","Snowboard;Hiking","Japanese;Chinese;Chinese;Italian",false,Black,1.4285933795123114,6436,Australia,6,3
+281,2,"No preference","Senior","Swimming;Museum","Sightseeing;Trail Running","Korean;Italian;Vietnamese;American",true,Hispanic,0.3243639484531819,4523,South America,18,5
+282,4,"Male","Middle-aged","Museum;Museum;Museum","Hiking;Biking;Ski","Vietnamese;Taiwanese;Italian;Korean",true,Indian,0.2253457546212069,4500,Asia,6,4
+283,5,"Male","Young","Museum;Card Games","Trail Running;Road Running","Vietnamese;American",false,White,0.5055228165379437,3273,Africa,6,8
+284,2,"No preference","Senior","Board Games;Movie Theater","Trail Running;Sightseeing;Biking","Thai;Taiwanese;Taiwanese",true,Hispanic,0.864641311255125,3744,South America,18,2
+285,5,"Female","Middle-aged","Museum;Billiards;Museum","Snowboard;Hiking;Hiking","American;American",true,Black,1.2252848724522374,9911,Asia,12,6
+286,5,"Male","Middle-aged","Pool;Billiards;Swimming","Ski;Ski","Chinese;Taiwanese",false,Hispanic,0.29168536296137376,6512,Australia,28,5
+287,2,"No preference","Senior","Card Games;Billiards","Hiking;Sightseeing","Italian;Taiwanese",false,Black,0.6418289675595115,3104,Africa,20,10
+288,4,"No preference","Young","Billiards;Swimming;Board Games","Sightseeing;Trail Running","Vietnamese;American",false,Other,0.19948067982043932,4643,Africa,21,6
+289,2,"Female","Middle-aged","Billiards;Card Games;Card Games","Trail Running;Sightseeing","Korean;Vietnamese;Mexican;Taiwanese",false,Other,0.5896305017620274,8404,Australia,4,8
+290,2,"Male","Middle-aged","Board Games;Pool;Card Games","Snowboard;Road Running;Ski","Italian;American;Vietnamese",true,Indian,0.5273920837798258,8465,Australia,22,2
+291,1,"Male","Young","Movie Theater;Card Games;Movie Theater","Ski;Sightseeing;Snowboard","American;Thai;Korean",true,Latino,0.13931962252644198,9943,Europe,9,9
+292,2,"Female","Middle-aged","Museum;Board Games;Swimming","Hiking;Hiking","Japanese;Thai;American",true,Latino,0.2874484320945229,1062,South America,23,9
+293,1,"Male","Senior","Museum;Card Games","Trail Running;Biking;Road Running","Korean;Taiwanese;Italian;Taiwanese",false,Hispanic,0.8773763402450019,6947,North America,1,3
+294,2,"No preference","Young","Board Games;Card Games","Road Running;Biking","Italian;Vietnamese;Italian;Vietnamese",true,White,0.4077032834499317,6783,Africa,17,10
+295,2,"Female","Middle-aged","Pool;Pool;Board Games","Ski;Road Running;Trail Running","Taiwanese;Chinese",true,Latino,0.653267970502833,5969,Africa,10,7
+296,3,"Male","Middle-aged","Movie Theater;Board Games","Hiking;Road Running","Mexican;Italian;Taiwanese;Thai",false,Other,0.11270773181583733,2288,Australia,20,8
+297,5,"Female","Middle-aged","Billiards;Board Games;Board Games","Hiking;Ski","American;Korean;Thai",false,Asian,0.32094505919988875,6987,South America,3,9
+298,2,"Male","Young","Swimming;Museum","Ski;Biking","Japanese;Mexican",false,Other,0.6561938391463448,2360,Europe,21,3
+299,2,"Female","Middle-aged","Billiards;Board Games","Hiking;Sightseeing","Vietnamese;Chinese",false,White,1.342830512257572,8770,Europe,25,10
+300,4,"Female","Young","Billiards;Card Games","Snowboard;Biking","Mexican;American;Vietnamese",true,Hispanic,1.8360667634307752,6973,North America,28,8
+301,5,"Female","Young","Movie Theater;Museum;Pool","Snowboard;Hiking","Chinese;Taiwanese",false,Indian,1.731647598268488,2113,Europe,25,6
+302,3,"No preference","Senior","Pool;Board Games;Billiards","Trail Running;Ski;Snowboard","Mexican;Italian;Chinese;American",false,Other,0.18000063436436523,2151,Europe,12,10
+303,1,"Female","Middle-aged","Board Games;Movie Theater","Sightseeing;Sightseeing","American;American;Chinese",false,Hispanic,2.19687395506793,9548,Asia,27,6
+304,5,"Male","Middle-aged","Board Games;Pool;Swimming","Hiking;Trail Running;Road Running","Japanese;Mexican;Thai",true,Other,1.1054456552418763,2253,Africa,29,2
+305,5,"Female","Middle-aged","Board Games;Pool","Road Running;Hiking","Japanese;Mexican",false,White,1.0821580511440516,2324,South America,1,8
+306,3,"No preference","Young","Swimming;Board Games;Board Games","Sightseeing;Sightseeing","Japanese;Taiwanese;Vietnamese;Vietnamese",true,Asian,1.1705855045284383,1646,Africa,29,8
+307,1,"No preference","Senior","Pool;Billiards;Billiards","Trail Running;Road Running;Snowboard","Taiwanese;Mexican;Taiwanese;Korean",false,White,0.04922947819631789,8592,South America,21,3
+308,3,"Female","Young","Movie Theater;Museum","Road Running;Snowboard","Korean;Thai;Mexican",true,Latino,1.151597415232033,4859,North America,28,1
+309,2,"Female","Middle-aged","Billiards;Museum;Pool","Hiking;Ski;Trail Running","Italian;Mexican;Thai",false,Black,1.011395060569676,2929,Asia,25,3
+310,1,"Male","Young","Billiards;Billiards;Swimming","Trail Running;Snowboard","Mexican;American;Taiwanese;Taiwanese",true,Indian,0.8644823881192267,5134,Africa,27,5
+311,2,"Male","Young","Swimming;Board Games","Hiking;Snowboard","Japanese;Vietnamese;Mexican;Korean",false,Indian,1.841845464222344,4058,South America,4,1
+312,5,"Female","Young","Card Games;Billiards","Road Running;Sightseeing;Road Running","Taiwanese;Mexican;Taiwanese;Chinese",true,Latino,0.3984415260703247,7129,Asia,11,3
+313,4,"No preference","Young","Pool;Billiards;Board Games","Hiking;Road Running","Korean;Chinese",true,White,0.24983579224169367,6406,Asia,6,2
+314,4,"Male","Middle-aged","Swimming;Movie Theater;Billiards","Ski;Snowboard;Snowboard","Korean;Vietnamese;Korean;Italian",true,White,0.15965364179123662,2844,Africa,27,8
+315,3,"No preference","Senior","Card Games;Swimming;Movie Theater","Trail Running;Ski;Snowboard","Vietnamese;American;Japanese;Vietnamese",false,Latino,0.5148627082240793,5809,Europe,26,8
+316,4,"No preference","Young","Card Games;Pool","Sightseeing;Biking;Ski","Korean;Taiwanese;Taiwanese",false,Latino,0.20355378475954944,9023,Australia,9,10
+317,3,"Male","Middle-aged","Swimming;Pool;Billiards","Trail Running;Snowboard","Taiwanese;American",false,Indian,0.5988011011227656,2695,North America,23,3
+318,3,"Female","Young","Board Games;Swimming","Snowboard;Sightseeing;Ski","American;Mexican",false,Asian,1.1245224624044712,8797,South America,12,8
+319,1,"No preference","Young","Movie Theater;Swimming;Billiards","Hiking;Sightseeing;Trail Running","Taiwanese;Japanese",true,Hispanic,0.3362548006065696,2059,Africa,26,1
+320,2,"Male","Middle-aged","Pool;Billiards","Ski;Hiking;Biking","Thai;Thai",false,Black,2.1936931496976433,3517,North America,24,6
+321,4,"Female","Middle-aged","Movie Theater;Pool","Hiking;Trail Running","Taiwanese;American;Taiwanese;American",false,Asian,0.0860002372881721,9340,Africa,24,7
+322,2,"Male","Middle-aged","Museum;Billiards","Snowboard;Sightseeing","Thai;Mexican;Italian",false,Indian,1.6467349118227108,5274,Australia,30,10
+323,1,"Male","Middle-aged","Movie Theater;Movie Theater","Sightseeing;Snowboard;Trail Running","Taiwanese;Thai;Chinese",false,Other,0.09975218295370701,9562,Europe,4,6
+324,1,"No preference","Middle-aged","Museum;Swimming;Card Games","Hiking;Ski","Italian;Thai;Vietnamese",false,White,0.012878408356290637,3488,Africa,6,5
+325,2,"Female","Senior","Movie Theater;Swimming;Museum","Ski;Snowboard","Mexican;Vietnamese;Korean",false,Other,1.510034909820272,2281,Australia,7,3
+326,1,"No preference","Young","Board Games;Swimming;Billiards","Ski;Ski","Chinese;Thai;Thai",true,Latino,0.7106438380797673,4168,Australia,15,6
+327,3,"Male","Senior","Billiards;Pool;Pool","Snowboard;Sightseeing","Thai;Japanese;Korean",true,Hispanic,0.013309062027229436,4942,South America,5,1
+328,1,"No preference","Middle-aged","Card Games;Pool;Billiards","Snowboard;Snowboard","American;Chinese",true,Latino,1.710619667132272,7120,North America,24,2
+329,1,"Male","Senior","Swimming;Pool","Hiking;Sightseeing","Taiwanese;Italian;Thai;Mexican",true,Latino,1.1280992132371725,8642,South America,26,10
+330,2,"Male","Middle-aged","Movie Theater;Swimming;Swimming","Trail Running;Ski;Road Running","American;Chinese;Chinese;Italian",true,Black,0.710092188661332,1988,Asia,14,3
+331,4,"Female","Young","Billiards;Museum","Trail Running;Sightseeing","Korean;Vietnamese;Mexican;Vietnamese",false,Indian,0.7125266404863262,2384,South America,19,9
+332,2,"Male","Young","Card Games;Museum;Museum","Trail Running;Trail Running","Mexican;American",false,Other,1.074510261846918,7593,South America,5,10
+333,2,"Male","Young","Museum;Movie Theater;Movie Theater","Trail Running;Road Running","Japanese;Thai;Chinese;American",true,Indian,0.08185130881918429,2532,South America,13,2
+334,2,"Female","Senior","Billiards;Card Games","Sightseeing;Road Running;Biking","Chinese;Taiwanese;Mexican",false,Asian,0.24840700047150047,5081,Asia,27,9
+335,1,"No preference","Young","Movie Theater;Billiards;Movie Theater","Ski;Snowboard","Mexican;Vietnamese;Mexican",false,Latino,0.7510696727418699,4494,Europe,15,2
+336,1,"Male","Senior","Pool;Movie Theater;Billiards","Sightseeing;Snowboard","Chinese;Taiwanese;Korean",false,White,1.9240529929030292,7948,Africa,29,7
+337,2,"Male","Young","Museum;Pool;Movie Theater","Hiking;Sightseeing","Korean;Italian;Taiwanese",true,Latino,0.12513340506912393,9004,North America,6,5
+338,1,"Female","Senior","Card Games;Swimming","Snowboard;Trail Running","American;Vietnamese",true,White,0.13995962149129393,8035,Africa,1,9
+339,2,"Female","Middle-aged","Pool;Swimming;Pool","Biking;Ski;Ski","American;Korean;American",true,Indian,1.9063197172341013,9457,Australia,13,6
+340,1,"Female","Senior","Museum;Swimming","Biking;Road Running","Korean;Mexican;Japanese;Vietnamese",true,Asian,0.590589511370874,6681,South America,8,9
+341,2,"Male","Middle-aged","Billiards;Board Games","Trail Running;Snowboard;Biking","Vietnamese;Vietnamese;Vietnamese;American",true,Indian,1.4503726411776883,8275,South America,11,6
+342,2,"No preference","Middle-aged","Board Games;Movie Theater;Board Games","Sightseeing;Snowboard;Sightseeing","American;Mexican",false,Hispanic,0.1650662469989031,1283,Asia,18,4
+343,3,"Male","Senior","Museum;Board Games","Ski;Trail Running","Vietnamese;Japanese",false,Hispanic,0.681992615955587,2857,Australia,30,2
+344,2,"No preference","Young","Board Games;Pool","Sightseeing;Ski;Sightseeing","American;American;Vietnamese;Korean",true,Asian,2.3344238772065937,4292,Asia,23,4
+345,4,"No preference","Young","Board Games;Billiards;Swimming","Sightseeing;Hiking;Hiking","Italian;Japanese",true,Black,1.1628293628562094,9058,North America,23,7
+346,1,"Female","Senior","Pool;Card Games","Hiking;Sightseeing","Mexican;Taiwanese;Japanese;Mexican",false,Hispanic,1.7987580726886732,6535,Europe,5,8
+347,3,"No preference","Middle-aged","Museum;Card Games","Sightseeing;Road Running","Mexican;Italian",true,Indian,1.5258632277827957,4330,Asia,10,7
+348,2,"No preference","Senior","Museum;Board Games;Card Games","Sightseeing;Road Running","Thai;Taiwanese;Japanese;Taiwanese",false,Black,0.3186463206503945,3100,Asia,2,8
+349,4,"No preference","Senior","Billiards;Card Games;Museum","Road Running;Hiking","American;American;Chinese;Taiwanese",false,Black,0.8357171445072991,5405,South America,29,6
+350,1,"No preference","Senior","Swimming;Billiards;Card Games","Ski;Biking","Chinese;American",false,Latino,0.1810419956146265,7394,Australia,26,2
+351,3,"Female","Young","Billiards;Museum;Swimming","Trail Running;Hiking;Trail Running","Mexican;Thai;Thai",true,Hispanic,0.9742190245041351,2161,Asia,13,3
+352,4,"No preference","Young","Pool;Board Games;Swimming","Biking;Biking","Japanese;Chinese;Korean;Italian",true,Black,2.5932927378029107,4981,Australia,30,9
+353,3,"Female","Young","Museum;Museum;Swimming","Ski;Snowboard;Sightseeing","Chinese;Chinese",false,Asian,1.4301867479719508,5536,South America,11,5
+354,3,"Male","Young","Swimming;Movie Theater","Sightseeing;Trail Running;Hiking","Taiwanese;Mexican;Thai;Mexican",false,White,0.15312141564586798,1319,South America,22,5
+355,2,"No preference","Senior","Board Games;Card Games","Snowboard;Snowboard;Ski","Italian;Italian;Chinese;Thai",false,Other,4.712495688533643,9704,North America,24,2
+356,5,"No preference","Senior","Billiards;Card Games;Movie Theater","Road Running;Snowboard","Mexican;Mexican",true,Hispanic,0.3810880954037287,4723,Asia,17,5
+357,2,"Female","Senior","Movie Theater;Board Games","Hiking;Snowboard","Vietnamese;Korean;Taiwanese",true,Asian,0.5067651063249248,2298,South America,21,4
+358,1,"Female","Middle-aged","Swimming;Board Games;Museum","Road Running;Snowboard;Ski","Korean;American",false,White,0.03647988360760611,3328,South America,13,1
+359,2,"Male","Young","Movie Theater;Museum","Snowboard;Road Running","Japanese;Taiwanese;Korean",false,Black,0.5278928152530203,7754,North America,10,2
+360,3,"Female","Middle-aged","Card Games;Board Games","Ski;Ski;Biking","Taiwanese;American",false,White,0.29972091586986954,8647,Australia,14,10
+361,2,"No preference","Senior","Swimming;Movie Theater","Hiking;Trail Running","Japanese;Italian;Taiwanese",true,Asian,1.9910260333831402,2870,Europe,16,6
+362,5,"Male","Young","Card Games;Pool","Ski;Ski","Mexican;Vietnamese;Vietnamese",true,Black,0.02040332496913602,2525,North America,10,4
+363,3,"No preference","Young","Museum;Billiards","Road Running;Road Running;Trail Running","Korean;Thai;Italian",false,Hispanic,1.798940533525518,3836,Asia,28,4
+364,3,"Female","Middle-aged","Museum;Museum","Trail Running;Snowboard;Biking","Taiwanese;American;Taiwanese",true,Other,0.2985868308441621,9079,South America,17,3
+365,2,"Male","Young","Museum;Swimming;Swimming","Sightseeing;Sightseeing;Road Running","American;American",false,White,0.32408702357403957,4618,Asia,3,8
+366,2,"Female","Middle-aged","Museum;Museum","Road Running;Trail Running;Sightseeing","Japanese;Italian;Chinese",true,White,0.12937040637268948,3795,Australia,13,5
+367,5,"Male","Senior","Billiards;Pool;Museum","Biking;Ski;Sightseeing","Taiwanese;Korean;Thai",false,Hispanic,0.9382100218525072,1794,Europe,4,8
+368,3,"Female","Young","Billiards;Movie Theater;Movie Theater","Trail Running;Biking;Sightseeing","Chinese;Korean",true,Black,0.9808266556793007,8266,Africa,1,1
+369,2,"Female","Young","Card Games;Card Games;Board Games","Trail Running;Sightseeing","Italian;Chinese;Mexican",true,White,0.15139588346269078,7291,Australia,20,6
+370,4,"Female","Middle-aged","Card Games;Card Games","Trail Running;Trail Running","Chinese;Chinese;American",true,Other,0.11392573834851308,7407,Africa,23,5
+371,2,"No preference","Young","Board Games;Movie Theater","Ski;Trail Running;Sightseeing","Mexican;Vietnamese;Japanese;Japanese",false,Latino,0.8936484622749394,5154,South America,5,9
+372,3,"Female","Middle-aged","Movie Theater;Swimming;Movie Theater","Hiking;Hiking;Road Running","Thai;Chinese;Italian;Vietnamese",false,White,3.5986436727102387,6290,Australia,18,7
+373,5,"Female","Senior","Pool;Pool","Snowboard;Road Running;Biking","Mexican;Korean",false,Indian,0.15174792754938987,7971,Europe,5,3
+374,1,"Male","Middle-aged","Swimming;Movie Theater","Snowboard;Hiking","Taiwanese;Korean;Korean",false,Black,0.12666392333452367,5970,Asia,15,10
+375,1,"Male","Middle-aged","Museum;Movie Theater;Billiards","Sightseeing;Ski;Trail Running","Chinese;Vietnamese",true,Black,0.2536657772158306,6939,Europe,27,6
+376,3,"Male","Senior","Movie Theater;Card Games;Billiards","Snowboard;Trail Running;Road Running","Mexican;Korean;Italian;Mexican",true,Latino,0.8068531178592024,3531,Africa,3,3
+377,4,"No preference","Middle-aged","Billiards;Movie Theater;Board Games","Sightseeing;Hiking;Road Running","American;Japanese;Mexican;Korean",false,Hispanic,1.1936944035211126,7384,Australia,18,9
+378,4,"Female","Middle-aged","Billiards;Card Games","Biking;Trail Running","Taiwanese;Japanese",false,White,0.4596042740919933,5551,South America,27,1
+379,2,"Male","Middle-aged","Movie Theater;Card Games","Trail Running;Road Running;Sightseeing","Mexican;Chinese",true,White,0.31963840828328205,9812,Europe,10,7
+380,4,"No preference","Young","Movie Theater;Swimming","Hiking;Road Running","Japanese;Taiwanese;American",true,Indian,0.09127151764839686,6551,South America,2,10
+381,2,"Female","Middle-aged","Pool;Board Games","Sightseeing;Trail Running;Snowboard","American;American;Korean;Mexican",false,Black,0.6911506588798151,3492,Asia,29,4
+382,4,"Female","Middle-aged","Pool;Museum","Trail Running;Biking","Japanese;Taiwanese;Chinese",false,Latino,0.5536357050467224,5974,Africa,2,3
+383,2,"Male","Middle-aged","Card Games;Swimming;Pool","Snowboard;Biking","Vietnamese;Korean;Italian",true,Asian,1.8783352311637527,2459,Europe,19,3
+384,3,"No preference","Young","Swimming;Museum;Board Games","Sightseeing;Road Running","American;Korean;Chinese",false,Asian,0.018020189891705795,7496,Australia,21,9
+385,2,"Female","Senior","Pool;Card Games","Biking;Trail Running","American;Mexican;Chinese",false,Hispanic,2.6150051896678446,2392,Africa,11,7
+386,4,"Female","Middle-aged","Board Games;Pool;Card Games","Biking;Snowboard","Mexican;Italian",false,Black,2.6306915495826684,7715,Europe,25,10
+387,5,"Male","Young","Museum;Swimming;Museum","Snowboard;Biking","Taiwanese;Thai;Chinese;Korean",true,White,0.4362400770477347,3534,Europe,26,6
+388,5,"Female","Middle-aged","Billiards;Board Games;Card Games","Trail Running;Snowboard;Biking","American;Japanese;Korean;Thai",false,Indian,3.0920283800581965,1284,Asia,1,1
+389,3,"Female","Middle-aged","Card Games;Board Games;Card Games","Ski;Sightseeing;Trail Running","Mexican;Thai;Thai;Japanese",false,White,0.3907530725407636,6214,Australia,5,10
+390,4,"No preference","Young","Board Games;Museum","Trail Running;Road Running;Road Running","Japanese;American;Korean;Thai",true,Other,0.8619981923249723,5727,Australia,5,10
+391,1,"Female","Senior","Movie Theater;Museum;Swimming","Sightseeing;Road Running","Vietnamese;Thai;Thai;Thai",true,Indian,1.8854065178211739,2077,Australia,3,8
+392,3,"Female","Middle-aged","Movie Theater;Movie Theater","Sightseeing;Hiking","Taiwanese;Taiwanese",false,White,2.911520498909754,3380,Europe,26,7
+393,2,"No preference","Middle-aged","Pool;Swimming","Road Running;Snowboard;Sightseeing","Japanese;Thai;Japanese;Italian",false,Latino,0.6964004027542822,7190,Asia,10,4
+394,1,"Female","Middle-aged","Card Games;Pool;Board Games","Sightseeing;Snowboard","Chinese;Thai;Korean",false,Other,0.6152246328037485,2304,Australia,13,6
+395,5,"No preference","Young","Movie Theater;Pool","Ski;Biking;Sightseeing","American;Taiwanese",false,Indian,2.0216918533944894,3050,Africa,3,4
+396,3,"Female","Senior","Museum;Movie Theater;Museum","Ski;Biking","Korean;Taiwanese",true,Hispanic,0.522532172936961,1372,Australia,5,10
+397,4,"Female","Middle-aged","Card Games;Pool","Ski;Ski;Snowboard","American;Korean;Japanese",true,Indian,1.2658984862267524,8872,South America,12,5
+398,1,"Female","Young","Board Games;Movie Theater","Road Running;Road Running;Ski","Korean;American;Korean",true,Indian,1.113572805643491,7733,Australia,17,2
+399,2,"Male","Young","Movie Theater;Board Games;Swimming","Road Running;Road Running","Mexican;Thai;Vietnamese;Korean",false,Hispanic,0.7184069675395491,3997,South America,3,1
+400,3,"No preference","Young","Swimming;Swimming","Ski;Snowboard","Italian;American;Taiwanese;Italian",false,White,0.030099176919572142,7301,South America,22,5
+401,2,"Female","Senior","Pool;Museum;Billiards","Road Running;Snowboard","Italian;Korean;American",false,Black,0.9956883740379125,2546,Asia,17,4
+402,4,"Female","Young","Swimming;Movie Theater","Biking;Ski","Mexican;American;Taiwanese;Japanese",false,White,2.377086473146339,8985,South America,24,10
+403,4,"Female","Middle-aged","Board Games;Card Games","Road Running;Ski;Sightseeing","Korean;American",false,Asian,0.040281642203263315,2198,Australia,13,5
+404,3,"No preference","Senior","Swimming;Card Games","Ski;Snowboard;Ski","Thai;Thai;Korean;Thai",false,Other,1.183193528097254,3880,North America,24,9
+405,2,"Male","Middle-aged","Billiards;Pool;Card Games","Biking;Biking;Ski","Thai;Vietnamese",false,Other,0.1044179581185992,4372,North America,12,8
+406,4,"Male","Young","Swimming;Billiards;Movie Theater","Snowboard;Snowboard;Road Running","Vietnamese;Korean;Chinese;Korean",false,Black,0.4663388179375967,1186,Africa,7,5
+407,1,"Female","Young","Museum;Pool;Board Games","Trail Running;Sightseeing","American;American;Taiwanese",false,Black,0.35476514797621966,4028,Africa,24,6
+408,5,"No preference","Middle-aged","Billiards;Billiards","Snowboard;Road Running","Italian;Japanese",true,Other,1.3318382501611252,9599,North America,27,4
+409,3,"No preference","Middle-aged","Museum;Card Games","Road Running;Trail Running","Italian;Korean;Thai;Korean",true,Asian,2.4768764810318014,3822,Europe,6,3
+410,3,"Male","Middle-aged","Movie Theater;Billiards","Sightseeing;Biking","Korean;Japanese;Chinese;Italian",false,Latino,0.5761246927700848,3102,Australia,30,4
+411,3,"Male","Senior","Movie Theater;Pool;Movie Theater","Trail Running;Biking;Biking","Italian;Vietnamese;Chinese",false,Asian,1.5156872668908574,2148,Asia,30,6
+412,2,"No preference","Senior","Museum;Pool;Pool","Sightseeing;Hiking","Taiwanese;Taiwanese;Japanese",false,Black,0.9327612108631719,2869,Australia,10,9
+413,1,"Male","Young","Swimming;Movie Theater","Ski;Road Running","Italian;Taiwanese;Vietnamese;Thai",true,Hispanic,0.37293850940465495,8784,North America,15,1
+414,1,"Female","Young","Board Games;Swimming;Pool","Hiking;Snowboard","Taiwanese;Italian;Vietnamese",true,Other,0.5726886712488056,6538,North America,17,1
+415,2,"Female","Senior","Pool;Swimming;Pool","Ski;Snowboard","Thai;Japanese;Korean",false,Hispanic,0.08498716962240266,7497,Asia,4,4
+416,2,"Male","Senior","Movie Theater;Card Games","Ski;Trail Running;Road Running","American;American",false,Hispanic,0.6809616332336353,9179,Europe,8,5
+417,1,"Male","Middle-aged","Museum;Billiards;Pool","Sightseeing;Road Running;Hiking","Thai;Thai;Thai",false,White,0.14694930865498917,9440,Australia,20,1
+418,4,"Female","Senior","Pool;Card Games","Trail Running;Road Running;Trail Running","Chinese;Mexican;Chinese",false,Black,1.8333361567492412,5886,Europe,11,9
+419,5,"Female","Young","Swimming;Board Games","Road Running;Ski;Road Running","American;Thai",false,Hispanic,1.2303431762641843,7236,Africa,7,5
+420,3,"Male","Young","Swimming;Card Games","Sightseeing;Sightseeing;Sightseeing","American;Korean",false,Other,0.3508766434890397,8855,Asia,25,1
+421,1,"No preference","Middle-aged","Movie Theater;Swimming","Snowboard;Sightseeing","Thai;Chinese",false,Indian,1.3400408085511204,6370,Africa,20,6
+422,3,"Male","Senior","Pool;Board Games","Ski;Trail Running;Ski","Mexican;Taiwanese",false,Black,0.47475267684482275,8592,Europe,13,10
+423,4,"Male","Middle-aged","Board Games;Museum;Movie Theater","Biking;Hiking;Road Running","Japanese;American;Thai;Italian",true,Asian,0.47021548413764463,8218,Africa,22,4
+424,2,"Female","Middle-aged","Billiards;Museum;Card Games","Snowboard;Snowboard;Hiking","Vietnamese;Vietnamese;Korean",true,Hispanic,0.9755188102171279,4238,Australia,9,7
+425,2,"Male","Young","Pool;Movie Theater;Card Games","Ski;Sightseeing","Japanese;Vietnamese;Japanese",false,Latino,0.008786591322142847,9921,North America,3,4
+426,5,"Male","Senior","Swimming;Pool","Sightseeing;Biking","American;Japanese;Korean;Italian",true,White,1.3682074129597686,5193,North America,2,9
+427,1,"No preference","Middle-aged","Pool;Movie Theater","Hiking;Hiking","Korean;Chinese",false,Asian,1.752365423539037,9047,Africa,13,3
+428,3,"No preference","Senior","Board Games;Pool","Snowboard;Snowboard;Trail Running","American;Vietnamese;Japanese",false,Asian,1.495157392428947,1393,Europe,29,6
+429,5,"Female","Senior","Card Games;Museum","Trail Running;Biking","Taiwanese;American",true,Black,0.3418256958760587,9034,South America,24,2
+430,4,"Female","Middle-aged","Card Games;Board Games","Hiking;Trail Running","Chinese;Vietnamese",true,Hispanic,0.9253056840630136,2773,South America,27,3
+431,3,"Male","Middle-aged","Billiards;Swimming;Pool","Biking;Ski","Chinese;Italian;Thai",true,Black,0.7689504045024999,2785,South America,7,7
+432,4,"Female","Middle-aged","Pool;Museum","Biking;Sightseeing","Taiwanese;Italian;American;Taiwanese",false,White,0.3805761046645331,8498,South America,5,10
+433,1,"Female","Middle-aged","Swimming;Museum","Road Running;Hiking;Biking","Korean;Thai;Japanese;Korean",true,Asian,2.629857610401307,2771,North America,2,9
+434,1,"Female","Senior","Swimming;Museum;Movie Theater","Hiking;Biking;Hiking","Taiwanese;Chinese",true,Asian,0.4185888906751626,8690,Australia,2,6
+435,4,"Female","Middle-aged","Board Games;Card Games","Sightseeing;Sightseeing","Thai;Italian",true,White,3.7575532563722494,6875,South America,29,7
+436,5,"Female","Young","Card Games;Movie Theater","Snowboard;Sightseeing","Taiwanese;Thai;Mexican",true,Black,0.5201759171771266,6005,South America,6,7
+437,5,"Male","Young","Billiards;Billiards;Card Games","Ski;Trail Running;Road Running","Korean;Japanese;Japanese",true,Hispanic,2.921826849724201,5797,South America,13,10
+438,3,"No preference","Middle-aged","Pool;Card Games;Board Games","Biking;Biking;Snowboard","Italian;Korean",true,White,1.2861779165036387,4853,Australia,29,1
+439,2,"Male","Senior","Museum;Museum","Trail Running;Hiking;Ski","Chinese;American;Korean;Chinese",false,Latino,1.1091101778244337,8724,North America,12,6
+440,4,"Female","Young","Board Games;Pool;Museum","Road Running;Ski;Road Running","Thai;Japanese;Japanese",false,White,0.38770051158599617,8598,Europe,25,5
+441,5,"No preference","Senior","Museum;Swimming;Billiards","Trail Running;Ski;Hiking","Taiwanese;Japanese;Italian",false,Latino,3.113686281880267,5740,South America,14,9
+442,3,"No preference","Young","Card Games;Board Games","Hiking;Ski","Mexican;Korean;Mexican;Chinese",true,Asian,2.2152435114150353,3862,Australia,14,1
+443,5,"Female","Middle-aged","Board Games;Museum","Trail Running;Biking;Biking","Mexican;Mexican;Chinese",false,Black,0.40818413150279353,3333,Europe,15,8
+444,3,"Female","Middle-aged","Swimming;Board Games","Sightseeing;Ski","American;Taiwanese;Chinese",true,Indian,3.7132056145464976,9693,North America,14,3
+445,4,"Female","Young","Swimming;Pool;Card Games","Trail Running;Ski;Ski","Italian;Vietnamese",false,Hispanic,2.495995300821406,6889,Europe,9,1
+446,3,"Female","Middle-aged","Billiards;Museum;Museum","Sightseeing;Hiking","American;Italian;Korean",true,Latino,0.10555253645527907,5216,North America,12,5
+447,3,"Male","Senior","Board Games;Board Games","Biking;Road Running;Biking","Italian;Taiwanese;Korean",true,Black,0.8994732652553501,3233,Europe,20,8
+448,2,"No preference","Senior","Card Games;Museum","Sightseeing;Biking","Korean;Japanese;American",false,Hispanic,0.08806753243540713,8651,South America,4,1
+449,2,"Male","Middle-aged","Board Games;Museum;Board Games","Ski;Road Running","Japanese;Japanese;Mexican",true,Hispanic,0.8207789122306796,7238,North America,19,3
+450,3,"Male","Middle-aged","Billiards;Board Games","Hiking;Biking;Snowboard","Japanese;American;Mexican;Korean",true,White,0.6657454049890945,2460,South America,14,3
+451,1,"Female","Middle-aged","Movie Theater;Billiards","Sightseeing;Ski","Korean;Japanese",false,Indian,1.0403543227699164,2173,Europe,21,2
+452,4,"Male","Senior","Billiards;Card Games;Pool","Hiking;Snowboard;Trail Running","Japanese;Mexican",true,Asian,0.666173626308833,9927,North America,10,1
+453,4,"No preference","Middle-aged","Billiards;Pool;Museum","Sightseeing;Sightseeing;Biking","American;Vietnamese;Mexican;Chinese",false,White,0.6643864275370835,1951,Europe,23,10
+454,2,"Female","Middle-aged","Movie Theater;Museum","Road Running;Sightseeing","Vietnamese;Mexican;Korean",true,Other,0.07362762640876268,3107,Africa,20,6
+455,5,"No preference","Middle-aged","Museum;Board Games","Biking;Hiking;Snowboard","American;Taiwanese;Italian;Korean",true,Indian,0.6112529272035624,9499,North America,28,2
+456,2,"No preference","Senior","Card Games;Movie Theater;Billiards","Biking;Road Running","Vietnamese;Korean;Korean;Vietnamese",false,Other,0.675321333027507,5157,Australia,14,2
+457,4,"Male","Middle-aged","Movie Theater;Billiards;Board Games","Trail Running;Biking;Biking","Vietnamese;Thai;Chinese;Mexican",true,Asian,0.4240145708994149,9107,North America,8,6
+458,5,"Female","Senior","Pool;Swimming","Hiking;Trail Running","Korean;Vietnamese;Mexican",true,Other,0.502920703621043,4696,Africa,24,1
+459,1,"Male","Middle-aged","Card Games;Board Games;Board Games","Ski;Snowboard","Thai;Japanese;Thai;Chinese",false,Other,0.45282158158438457,4322,Australia,10,9
+460,4,"No preference","Young","Card Games;Card Games","Sightseeing;Hiking;Road Running","Japanese;Japanese",true,Latino,1.0473550281602564,7624,Europe,10,2
+461,1,"No preference","Senior","Movie Theater;Billiards","Hiking;Ski","Thai;Italian",true,Other,0.36921601594661513,5616,Europe,7,9
+462,4,"Male","Young","Movie Theater;Billiards;Swimming","Sightseeing;Hiking;Road Running","American;American;Chinese;Taiwanese",false,Hispanic,0.8258623906599373,5793,Africa,23,5
+463,5,"Female","Senior","Movie Theater;Card Games","Sightseeing;Road Running","Taiwanese;Chinese",true,White,0.09163623825217769,8921,Africa,13,1
+464,2,"Female","Young","Billiards;Swimming;Card Games","Sightseeing;Sightseeing;Trail Running","Mexican;Vietnamese;American",false,Black,0.43216831112093324,2193,North America,17,6
+465,1,"Male","Senior","Billiards;Pool;Swimming","Biking;Trail Running","Japanese;American;Chinese",false,Asian,2.1846564889447095,5016,North America,21,6
+466,5,"No preference","Young","Board Games;Card Games;Movie Theater","Biking;Ski","American;Italian;Italian",false,Latino,0.13357491808270244,1857,North America,4,7
+467,1,"Female","Senior","Pool;Swimming","Hiking;Biking;Trail Running","Chinese;American;Japanese",true,Other,0.3729822343293007,6087,South America,10,2
+468,3,"Male","Senior","Movie Theater;Swimming","Trail Running;Sightseeing","Vietnamese;Japanese",true,Latino,1.1054929275512875,2297,North America,6,3
+469,4,"No preference","Senior","Board Games;Pool;Board Games","Sightseeing;Trail Running","Chinese;Vietnamese;Taiwanese",false,Asian,0.2530107177628355,6928,Europe,30,2
+470,3,"Female","Senior","Card Games;Movie Theater","Snowboard;Sightseeing;Road Running","Japanese;Chinese;Italian",true,Latino,1.2661198007008034,9242,Africa,17,8
+471,1,"Male","Senior","Museum;Swimming;Board Games","Snowboard;Ski;Ski","Taiwanese;Chinese;Mexican;Taiwanese",false,Other,1.8818267368064912,7871,Australia,7,3
+472,5,"Female","Senior","Swimming;Card Games","Biking;Biking;Hiking","Taiwanese;Taiwanese;Taiwanese",true,Indian,1.2580335791323047,6551,Australia,9,6
+473,3,"No preference","Senior","Billiards;Museum","Hiking;Hiking","Vietnamese;Mexican",true,White,0.5062340830532575,4915,Australia,28,8
+474,1,"No preference","Senior","Card Games;Swimming","Snowboard;Road Running;Hiking","Italian;Korean",false,Latino,0.8843493972607435,1383,Europe,2,4
+475,5,"Male","Middle-aged","Museum;Card Games;Swimming","Road Running;Trail Running;Snowboard","Thai;Thai",true,White,2.1242975515961136,7770,Asia,23,8
+476,1,"Male","Young","Swimming;Pool;Card Games","Trail Running;Sightseeing;Hiking","American;Chinese;American;Taiwanese",false,White,1.3895205279467382,1262,Africa,30,8
+477,5,"No preference","Young","Museum;Swimming;Swimming","Road Running;Biking","Vietnamese;American",false,Latino,1.8618349891422552,1315,Asia,16,2
+478,3,"No preference","Young","Movie Theater;Billiards","Trail Running;Hiking;Hiking","Japanese;Taiwanese;Chinese;Japanese",true,White,0.11391275734943089,9410,Africa,14,10
+479,3,"Male","Young","Billiards;Swimming;Movie Theater","Biking;Road Running;Trail Running","Vietnamese;Italian;American",true,Black,4.72920141372894,8562,North America,14,8
+480,3,"No preference","Senior","Board Games;Movie Theater","Ski;Snowboard","Japanese;Italian;Korean;Thai",true,White,0.6916735132227237,6975,Europe,16,4
+481,5,"Female","Middle-aged","Card Games;Movie Theater;Card Games","Trail Running;Biking;Hiking","Vietnamese;American;Korean",true,Hispanic,0.9684763824277094,5201,Africa,8,6
+482,1,"No preference","Young","Movie Theater;Pool;Movie Theater","Biking;Road Running","Italian;Vietnamese;American",true,Hispanic,0.09558742719224876,4302,Asia,8,2
+483,1,"Female","Middle-aged","Billiards;Museum;Board Games","Ski;Snowboard","Thai;Korean;Italian",true,Hispanic,0.12124844417898932,4560,Australia,2,1
+484,5,"Male","Senior","Card Games;Billiards;Movie Theater","Ski;Road Running;Hiking","Vietnamese;Italian;Japanese",true,White,1.1695788263083857,8370,Africa,4,4
+485,1,"No preference","Middle-aged","Billiards;Movie Theater","Hiking;Hiking","Thai;Mexican;American;Thai",false,Indian,0.14129494134230866,6161,Africa,17,3
+486,5,"Female","Young","Card Games;Swimming;Card Games","Hiking;Biking","Mexican;Vietnamese;Chinese",true,Latino,1.434839889699213,6445,Europe,3,10
+487,2,"Female","Senior","Card Games;Movie Theater","Hiking;Biking;Ski","American;Vietnamese",true,Black,0.014100430320907093,3301,South America,4,8
+488,1,"Female","Middle-aged","Billiards;Card Games","Trail Running;Snowboard","American;Italian;Thai",true,Indian,1.0561971084348076,4847,South America,14,1
+489,5,"Female","Middle-aged","Board Games;Board Games;Billiards","Snowboard;Hiking","American;Chinese;Korean",true,Indian,0.27522182420862,7402,South America,5,2
+490,3,"Male","Senior","Board Games;Movie Theater;Pool","Trail Running;Sightseeing;Ski","American;Japanese;Thai",true,Latino,0.5830320773003621,5412,Australia,18,3
+491,5,"Male","Young","Museum;Pool;Card Games","Road Running;Biking;Snowboard","Korean;Korean;Japanese",true,Other,0.6356828424946296,1678,Africa,7,8
+492,2,"No preference","Middle-aged","Swimming;Movie Theater","Road Running;Snowboard","Mexican;Taiwanese",false,Latino,0.28628357751688965,4463,South America,18,5
+493,2,"Male","Senior","Museum;Card Games","Ski;Snowboard","Japanese;Chinese",false,Asian,0.8738164664855169,4237,Africa,21,3
+494,5,"No preference","Young","Movie Theater;Board Games","Ski;Biking","Mexican;Taiwanese;Thai;Korean",true,White,3.7127766725409286,1986,Asia,3,10
+495,3,"No preference","Senior","Movie Theater;Board Games;Swimming","Ski;Hiking;Snowboard","Japanese;Korean;Chinese",false,White,0.03455379455262403,2357,Africa,20,7
+496,5,"Male","Young","Billiards;Card Games;Board Games","Trail Running;Road Running;Ski","Korean;Italian;Vietnamese",false,Black,1.7887440270433297,4672,Australia,26,5
+497,4,"Male","Young","Card Games;Museum;Swimming","Road Running;Trail Running","American;Vietnamese",false,Indian,0.24081783543023455,2695,Asia,16,4
+498,2,"Female","Young","Billiards;Card Games","Hiking;Road Running;Snowboard","Italian;Taiwanese;American",true,Other,0.4868998898202924,9944,Australia,8,2
+499,4,"Female","Senior","Swimming;Swimming","Hiking;Ski;Biking","Japanese;Chinese;Mexican;Vietnamese",true,Hispanic,1.4686897745999843,8987,Europe,4,7
+500,5,"Female","Middle-aged","Swimming;Pool","Sightseeing;Ski;Snowboard","Chinese;Japanese",false,White,1.5190592443077129,8691,Africa,12,10
+501,2,"No preference","Middle-aged","Card Games;Card Games","Sightseeing;Trail Running","Korean;American;Korean;Korean",true,Hispanic,0.9567844330663576,1991,Europe,8,4
+502,3,"Female","Young","Card Games;Billiards","Ski;Hiking;Biking","Korean;Taiwanese",true,Indian,0.5611282489802335,6641,Europe,16,5
+503,1,"No preference","Senior","Movie Theater;Movie Theater;Pool","Hiking;Sightseeing","Vietnamese;Vietnamese",true,Hispanic,0.019403972091604996,7166,North America,24,10
+504,3,"Female","Middle-aged","Pool;Board Games;Museum","Biking;Road Running","American;Chinese;Italian",true,Latino,0.09357016045398174,7468,North America,23,2
+505,3,"Male","Middle-aged","Board Games;Movie Theater","Ski;Snowboard;Road Running","Taiwanese;Mexican",false,Asian,1.4914066674275892,2908,North America,20,2
+506,4,"Female","Young","Movie Theater;Museum;Swimming","Hiking;Hiking","Korean;Thai;Mexican",false,Latino,0.062336722396186185,5193,Asia,7,6
+507,2,"Male","Senior","Movie Theater;Movie Theater;Swimming","Sightseeing;Ski","Korean;Korean;American;American",false,Other,0.17183501691185585,8529,Asia,10,9
+508,2,"No preference","Young","Movie Theater;Movie Theater;Board Games","Biking;Road Running","Italian;American;American",false,Latino,2.129921509642253,4180,Asia,9,7
+509,4,"No preference","Senior","Swimming;Museum;Board Games","Snowboard;Trail Running","Mexican;Korean;Korean",true,Latino,0.5143828156776019,2312,Africa,29,9
+510,2,"Female","Young","Pool;Board Games","Road Running;Road Running","Mexican;Japanese",true,Latino,0.46561290082001694,9056,Africa,20,9
+511,1,"Female","Young","Card Games;Movie Theater;Swimming","Road Running;Hiking","Vietnamese;Chinese;Chinese",true,Indian,2.575968862341502,3237,North America,3,7
+512,3,"Male","Young","Card Games;Movie Theater;Card Games","Sightseeing;Biking;Hiking","Chinese;Japanese;Vietnamese",true,White,1.6271679235693113,3097,Asia,3,5
+513,3,"Male","Young","Museum;Card Games;Billiards","Snowboard;Trail Running;Hiking","Chinese;Chinese;Mexican",true,Latino,1.7789796684954071,7387,Asia,26,4
+514,1,"No preference","Young","Billiards;Pool;Pool","Sightseeing;Biking","Korean;Vietnamese;Chinese",false,Black,0.7829565161236309,4825,Asia,24,7
+515,4,"Male","Senior","Billiards;Card Games","Trail Running;Ski;Sightseeing","Korean;Italian;Vietnamese",false,Indian,0.11203687493926541,5619,Africa,2,4
+516,2,"Male","Senior","Pool;Pool;Movie Theater","Hiking;Trail Running;Ski","Japanese;Mexican;Korean;Italian",false,Asian,0.9810353856056914,5218,North America,20,10
+517,1,"No preference","Senior","Swimming;Card Games","Hiking;Biking;Ski","American;Korean;Mexican",true,White,0.18691152707874945,3442,Australia,1,6
+518,2,"Male","Middle-aged","Swimming;Billiards;Board Games","Snowboard;Trail Running;Snowboard","Thai;Italian;Taiwanese",false,Other,0.5418531213569594,9832,Australia,20,9
+519,4,"Male","Young","Pool;Museum","Road Running;Trail Running","Chinese;Korean;Thai;Taiwanese",false,Latino,0.4513677988388214,6650,Asia,21,2
+520,2,"No preference","Senior","Pool;Movie Theater;Swimming","Ski;Trail Running;Sightseeing","Thai;Italian;Korean;Vietnamese",true,Latino,0.3056069312326067,1145,North America,20,7
+521,1,"Female","Young","Card Games;Board Games","Hiking;Sightseeing","Vietnamese;Japanese;Taiwanese",false,Hispanic,0.26834616144895856,1712,Asia,6,2
+522,4,"No preference","Senior","Museum;Billiards;Card Games","Snowboard;Ski;Sightseeing","Vietnamese;Thai",false,Black,0.17310159304200912,1960,Europe,4,1
+523,3,"Female","Senior","Board Games;Museum","Sightseeing;Biking","Thai;Vietnamese",false,Asian,1.1911904288122028,3487,North America,11,5
+524,5,"Female","Senior","Museum;Board Games","Ski;Sightseeing;Snowboard","Korean;Taiwanese;Japanese;Thai",true,Latino,0.3632470557860783,9103,Europe,17,2
+525,5,"Male","Young","Museum;Museum;Board Games","Road Running;Trail Running","Japanese;Japanese;Korean;Taiwanese",true,Latino,0.5413017048315824,6381,North America,6,5
+526,3,"Male","Middle-aged","Swimming;Museum","Snowboard;Ski;Biking","Japanese;Japanese;Japanese",false,Hispanic,0.5802644920192432,5957,South America,28,8
+527,2,"Female","Middle-aged","Museum;Pool","Hiking;Ski;Trail Running","American;Thai",true,Latino,0.9324421889952956,2587,South America,11,9
+528,1,"No preference","Middle-aged","Board Games;Museum;Movie Theater","Snowboard;Snowboard","Italian;Korean;Korean",false,Indian,1.1657215389398778,9102,Europe,7,6
+529,3,"Male","Middle-aged","Pool;Museum","Trail Running;Biking","Japanese;Korean;Italian",false,Black,0.45759932152415506,4651,Asia,15,10
+530,3,"Female","Middle-aged","Card Games;Billiards;Swimming","Hiking;Ski","Korean;Taiwanese;Korean;Taiwanese",false,White,2.074995066827685,1416,Africa,7,2
+531,1,"Male","Young","Board Games;Movie Theater;Movie Theater","Snowboard;Biking;Hiking","Italian;Vietnamese",false,White,0.3744002306893101,2990,Asia,28,5
+532,1,"Male","Senior","Card Games;Museum","Biking;Snowboard;Sightseeing","Japanese;Chinese;Korean",true,Hispanic,0.38351865586776224,8961,North America,19,10
+533,1,"Male","Senior","Museum;Billiards","Road Running;Road Running;Trail Running","Taiwanese;Mexican;Korean",true,White,0.5833636099582568,5926,South America,3,3
+534,5,"Male","Young","Billiards;Pool;Movie Theater","Ski;Road Running;Sightseeing","American;Mexican;Mexican",false,Asian,0.46373519605098773,4456,Asia,1,4
+535,3,"Female","Middle-aged","Movie Theater;Movie Theater;Movie Theater","Hiking;Trail Running;Biking","Japanese;Mexican;Japanese;Chinese",false,Other,0.5810767070484755,6318,South America,23,8
+536,5,"No preference","Middle-aged","Board Games;Swimming","Hiking;Ski;Hiking","Mexican;Taiwanese;Japanese;Vietnamese",true,White,0.10836439775231216,3986,Asia,18,5
+537,4,"No preference","Young","Museum;Card Games;Card Games","Trail Running;Road Running;Trail Running","Italian;Chinese;Japanese;American",true,Asian,0.2816067795502613,9446,Asia,7,10
+538,3,"No preference","Young","Pool;Pool","Hiking;Trail Running;Biking","Italian;Italian;Korean",true,White,0.7102700574787868,1396,Australia,8,6
+539,4,"No preference","Young","Card Games;Museum","Ski;Biking","American;Korean;American",false,Black,1.8452983680120343,5720,Europe,12,9
+540,1,"Female","Young","Movie Theater;Pool;Board Games","Road Running;Ski;Snowboard","Thai;Taiwanese;Chinese;Thai",true,Latino,2.283761668512323,7942,Europe,10,7
+541,5,"Male","Young","Museum;Card Games;Board Games","Trail Running;Snowboard","Korean;Chinese;Thai",false,Asian,0.770683586414599,8327,Europe,19,4
+542,2,"Female","Young","Card Games;Pool;Card Games","Sightseeing;Sightseeing;Trail Running","Japanese;Taiwanese",true,Indian,0.364271222476696,6743,South America,23,3
+543,5,"Male","Young","Pool;Museum;Pool","Trail Running;Road Running;Snowboard","Vietnamese;Mexican;American;Mexican",true,Hispanic,0.6031345578980013,3893,South America,17,2
+544,2,"No preference","Senior","Card Games;Billiards;Museum","Road Running;Ski","American;American;Korean",false,Black,2.5485924047715183,5127,Australia,1,9
+545,3,"Male","Middle-aged","Museum;Board Games;Card Games","Ski;Sightseeing","Korean;Thai;Vietnamese;Thai",false,Black,1.1401750959318009,9184,South America,28,1
+546,5,"Male","Middle-aged","Movie Theater;Billiards","Trail Running;Biking","Mexican;Japanese;Italian",false,Hispanic,0.5747568610173696,9229,Africa,23,7
+547,4,"No preference","Middle-aged","Billiards;Card Games;Movie Theater","Biking;Hiking;Road Running","Thai;American",true,Indian,1.7971448974810262,5777,Asia,12,4
+548,1,"No preference","Middle-aged","Board Games;Swimming","Biking;Sightseeing","Japanese;Thai",false,Other,1.6439249429506602,8354,Africa,17,10
+549,2,"Female","Middle-aged","Pool;Board Games;Billiards","Road Running;Road Running;Road Running","Thai;Italian;Mexican;Chinese",true,White,0.30110083675243016,3104,North America,11,5
+550,3,"Female","Senior","Swimming;Pool;Card Games","Sightseeing;Ski;Trail Running","Korean;Chinese;Korean;Mexican",false,Black,1.5481535812806344,9299,North America,30,2
+551,4,"Male","Young","Swimming;Swimming","Road Running;Trail Running","Chinese;Vietnamese;Taiwanese",false,Hispanic,3.5353126178321954,4037,North America,19,10
+552,3,"No preference","Middle-aged","Swimming;Card Games","Hiking;Trail Running","Mexican;Japanese;American;Japanese",false,White,2.981392197874346,3368,Africa,18,5
+553,2,"No preference","Middle-aged","Museum;Movie Theater","Sightseeing;Biking","Korean;Mexican;Taiwanese",false,Hispanic,1.1689413443938292,9205,South America,28,10
+554,3,"Female","Senior","Board Games;Museum","Hiking;Ski","Vietnamese;Japanese",true,Hispanic,1.9638569845119775,1223,South America,1,9
+555,2,"Male","Young","Board Games;Museum;Pool","Snowboard;Sightseeing","Japanese;Thai;Japanese;Vietnamese",true,Other,0.8023052939054545,8178,Australia,2,2
+556,1,"No preference","Senior","Swimming;Card Games;Card Games","Trail Running;Hiking","Italian;Chinese;Korean",true,White,0.9389051771935342,8888,Australia,12,2
+557,2,"Female","Young","Pool;Board Games;Board Games","Ski;Ski","American;American;Thai;Thai",false,White,0.1418857969988252,3781,North America,11,6
+558,2,"Female","Young","Billiards;Museum;Museum","Sightseeing;Ski;Snowboard","American;Italian;American",false,Hispanic,0.14744863816580195,5137,North America,16,3
+559,2,"Male","Senior","Museum;Billiards;Billiards","Biking;Snowboard","Mexican;Japanese",true,Black,0.20801728562526897,2659,South America,2,7
+560,3,"No preference","Senior","Billiards;Board Games","Snowboard;Hiking","Mexican;Italian;Italian",true,Hispanic,0.7268118360975223,3067,Africa,17,6
+561,2,"Male","Middle-aged","Swimming;Billiards;Board Games","Trail Running;Ski","Thai;Mexican",false,White,1.2847595640145963,8333,Africa,8,5
+562,3,"Male","Senior","Movie Theater;Museum","Biking;Sightseeing;Sightseeing","Taiwanese;Korean;Taiwanese",false,Black,1.0516099386219602,8028,Europe,9,10
+563,3,"No preference","Senior","Billiards;Pool","Sightseeing;Snowboard","Japanese;Chinese",true,Latino,1.00139264427526,2765,Asia,4,4
+564,2,"Female","Senior","Board Games;Card Games;Swimming","Sightseeing;Snowboard","Mexican;Vietnamese;Taiwanese;Chinese",false,Other,0.20927253485316033,7093,North America,1,9
+565,1,"Male","Young","Pool;Museum;Swimming","Snowboard;Sightseeing;Sightseeing","Thai;American",false,Black,0.9431822489345655,5611,Europe,29,5
+566,2,"No preference","Senior","Movie Theater;Pool","Trail Running;Snowboard;Trail Running","Thai;American;Vietnamese",true,White,0.07189913958657253,4139,Asia,8,5
+567,1,"Female","Middle-aged","Swimming;Swimming","Ski;Ski","Taiwanese;Taiwanese;American",true,Indian,0.946335635674264,8532,Africa,22,6
+568,1,"Male","Senior","Card Games;Card Games;Museum","Snowboard;Sightseeing","Japanese;Mexican;Thai;Chinese",false,Indian,0.46603992645855813,1129,Africa,30,10
+569,1,"Female","Middle-aged","Swimming;Movie Theater","Snowboard;Trail Running;Road Running","Mexican;Japanese;Korean;Chinese",true,White,4.3391659423926745,9183,Australia,30,3
+570,5,"Female","Young","Board Games;Pool","Ski;Road Running;Ski","Korean;Korean",false,Black,0.411539345534526,9938,Europe,15,7
+571,1,"Male","Young","Pool;Card Games","Ski;Biking;Hiking","Taiwanese;Taiwanese;Korean;Taiwanese",true,Asian,0.032562523691585896,2884,Africa,24,5
+572,3,"Male","Young","Movie Theater;Movie Theater;Billiards","Sightseeing;Snowboard","Vietnamese;Thai;American;Japanese",true,Latino,0.4234596545669193,5367,Africa,4,10
+573,5,"Female","Young","Movie Theater;Pool;Billiards","Sightseeing;Biking;Sightseeing","Chinese;Thai;Japanese",true,Hispanic,1.7714698672605393,4629,Asia,22,4
+574,4,"Male","Senior","Swimming;Billiards;Board Games","Snowboard;Hiking;Ski","American;Korean;Italian",false,Asian,1.2954809976376391,3256,Europe,4,10
+575,3,"Male","Senior","Pool;Pool","Biking;Hiking;Snowboard","Italian;Thai",true,Hispanic,0.0656554918024375,1313,Africa,9,4
+576,5,"Male","Middle-aged","Board Games;Swimming","Hiking;Biking","Taiwanese;Italian",false,Black,0.013309985993923901,4323,Australia,3,8
+577,1,"Male","Middle-aged","Museum;Card Games;Museum","Snowboard;Biking","Taiwanese;Korean",false,Hispanic,0.27139756558328887,7497,Europe,14,9
+578,1,"Female","Middle-aged","Card Games;Swimming","Trail Running;Road Running","Chinese;Italian;American;Italian",true,Hispanic,0.6510514119498243,7048,South America,25,5
+579,2,"Male","Young","Board Games;Movie Theater;Movie Theater","Snowboard;Ski;Road Running","Korean;Taiwanese;Japanese;Chinese",true,Latino,0.33330782884986393,4424,Africa,23,1
+580,4,"Male","Middle-aged","Card Games;Swimming","Road Running;Trail Running;Sightseeing","Mexican;American",true,Asian,0.7486514345692321,1123,Europe,15,6
+581,5,"No preference","Young","Swimming;Board Games","Hiking;Ski;Trail Running","Italian;Chinese;Korean;Mexican",false,White,1.0683965954845533,9846,South America,12,9
+582,2,"Female","Young","Swimming;Movie Theater;Pool","Biking;Hiking;Road Running","Mexican;Thai",true,Latino,1.0551673914543458,8194,Africa,1,6
+583,5,"Female","Middle-aged","Board Games;Card Games;Board Games","Ski;Road Running","Japanese;Japanese;American;Vietnamese",false,Asian,0.7671380690258444,4212,Europe,1,6
+584,5,"Female","Middle-aged","Swimming;Museum;Card Games","Hiking;Biking","American;Mexican;Thai",true,White,0.7791577816448116,3640,Africa,16,10
+585,5,"No preference","Young","Billiards;Museum;Card Games","Ski;Biking;Biking","Thai;Chinese;Mexican",false,Other,1.3077115468656053,3304,North America,30,6
+586,1,"No preference","Senior","Museum;Billiards;Billiards","Hiking;Sightseeing","Vietnamese;American;Mexican;Taiwanese",true,Latino,2.2184310751256975,5550,North America,14,8
+587,5,"No preference","Middle-aged","Billiards;Museum","Snowboard;Snowboard;Snowboard","Vietnamese;Mexican;Thai",true,Asian,0.26750682006255344,3911,North America,27,1
+588,3,"No preference","Senior","Movie Theater;Swimming;Museum","Snowboard;Ski","Vietnamese;Vietnamese;Thai",true,Latino,0.06352710624428261,7536,North America,23,9
+589,1,"Male","Senior","Movie Theater;Billiards;Board Games","Hiking;Trail Running","Vietnamese;Italian",false,Indian,0.04009469534434931,9813,Europe,7,8
+590,5,"Male","Young","Museum;Museum","Sightseeing;Hiking","Chinese;Chinese",true,White,1.143699887039359,1244,Australia,12,8
+591,5,"Female","Senior","Card Games;Pool;Movie Theater","Road Running;Road Running","Chinese;Thai;American;Thai",true,Other,0.2161902522443144,6819,North America,4,7
+592,4,"Female","Young","Card Games;Swimming","Ski;Road Running;Biking","American;Japanese",false,White,0.9613020095969481,6783,Europe,21,7
+593,3,"Female","Young","Swimming;Swimming","Biking;Ski;Trail Running","Mexican;Korean;Mexican",true,Asian,1.2834640253214464,1638,Asia,24,10
+594,4,"Female","Middle-aged","Card Games;Pool;Museum","Sightseeing;Snowboard","Thai;Mexican;Mexican;Thai",true,Indian,1.8296455025484426,7927,Asia,25,7
+595,5,"No preference","Senior","Board Games;Swimming","Hiking;Hiking;Hiking","Korean;Taiwanese",false,Other,1.126102504586394,7040,Australia,1,3
+596,3,"Female","Middle-aged","Billiards;Movie Theater;Pool","Ski;Biking;Hiking","Taiwanese;Taiwanese;Korean;Italian",true,Hispanic,0.13346557274555385,9865,Africa,23,7
+597,1,"Female","Middle-aged","Museum;Swimming;Pool","Sightseeing;Ski;Biking","Korean;Thai;American;Taiwanese",false,Black,0.256884620362329,3771,Europe,26,10
+598,1,"No preference","Middle-aged","Museum;Board Games","Road Running;Ski","Chinese;Thai",false,Other,1.2356423544986432,5384,Africa,29,7
+599,5,"No preference","Senior","Pool;Movie Theater","Road Running;Sightseeing","Vietnamese;Vietnamese",true,White,1.2818487190252184,1551,Africa,5,1
+600,2,"No preference","Young","Museum;Board Games","Snowboard;Hiking;Snowboard","Japanese;Italian;American;Chinese",true,Asian,1.2839803476382852,8896,Europe,5,1
+601,4,"No preference","Senior","Board Games;Billiards;Museum","Hiking;Trail Running;Ski","Japanese;Taiwanese;Italian;American",false,Other,3.7201547501629593,2286,Africa,10,1
+602,4,"No preference","Middle-aged","Swimming;Museum","Hiking;Trail Running","Vietnamese;Mexican;Korean;Korean",false,Asian,0.5763320592514828,8658,Europe,23,5
+603,3,"Female","Senior","Movie Theater;Card Games;Billiards","Biking;Sightseeing;Trail Running","Korean;Chinese;Italian;Mexican",false,Asian,2.0194698930428174,1626,South America,6,4
+604,4,"Male","Senior","Pool;Swimming;Card Games","Hiking;Road Running;Biking","Japanese;Taiwanese;Korean;Japanese",false,Indian,0.5275686292819177,3101,North America,2,10
+605,5,"Male","Senior","Pool;Board Games;Board Games","Trail Running;Trail Running;Trail Running","Chinese;Chinese;Vietnamese;American",true,Black,1.2806160105952267,2166,Australia,21,4
+606,3,"No preference","Young","Pool;Pool;Board Games","Trail Running;Hiking","American;Thai;Japanese;Thai",false,Indian,0.22287211625190778,1883,South America,24,5
+607,5,"Female","Middle-aged","Pool;Swimming","Hiking;Snowboard;Snowboard","Italian;Korean",false,Asian,0.22964155830961228,3726,South America,3,4
+608,3,"Female","Middle-aged","Museum;Billiards","Hiking;Trail Running","American;Japanese;Vietnamese;Vietnamese",false,Asian,1.787496305142147,4303,Europe,23,4
+609,2,"No preference","Young","Board Games;Board Games","Hiking;Biking;Trail Running","Mexican;Thai;American",true,Other,0.3264255488247706,7424,Europe,28,3
+610,2,"Female","Young","Museum;Pool","Sightseeing;Hiking","Taiwanese;Japanese;Italian",false,White,1.5211612389800253,6699,Africa,17,9
+611,4,"No preference","Senior","Board Games;Museum;Pool","Snowboard;Hiking","American;Taiwanese",true,Indian,2.2631250670486724,1343,Africa,25,1
+612,3,"Female","Senior","Card Games;Card Games;Pool","Trail Running;Snowboard","Taiwanese;Chinese",true,White,0.08269609291846046,5947,Asia,12,3
+613,1,"Male","Middle-aged","Pool;Board Games;Swimming","Biking;Biking","Italian;Vietnamese;Mexican;Mexican",false,White,1.3566563212551823,5981,Europe,3,10
+614,1,"Female","Middle-aged","Swimming;Board Games","Trail Running;Sightseeing","Japanese;Vietnamese",true,Indian,0.19289655304294726,5761,Africa,23,1
+615,3,"No preference","Middle-aged","Movie Theater;Board Games","Road Running;Sightseeing;Road Running","Vietnamese;Korean;Vietnamese;Italian",true,Asian,0.41284329178685425,9395,South America,1,8
+616,1,"No preference","Middle-aged","Billiards;Swimming","Trail Running;Snowboard;Ski","Italian;Taiwanese;Chinese",true,Asian,0.5378976121578272,5089,Australia,26,2
+617,4,"No preference","Young","Movie Theater;Pool;Board Games","Road Running;Road Running","Thai;Chinese",true,Latino,0.3592864915079734,3281,Africa,6,7
+618,3,"Male","Senior","Museum;Board Games","Road Running;Trail Running","Vietnamese;Taiwanese;Japanese",true,Other,1.4126486960909608,9449,South America,18,3
+619,2,"Male","Senior","Swimming;Movie Theater;Billiards","Ski;Trail Running","Thai;Japanese;Korean",true,Hispanic,1.1125742001963823,4666,North America,3,9
+620,5,"Male","Young","Pool;Pool;Pool","Ski;Road Running;Sightseeing","Thai;Korean;Chinese;Mexican",false,Other,2.953271100552562,7018,North America,23,2
+621,1,"No preference","Senior","Museum;Museum;Museum","Hiking;Sightseeing","Japanese;Japanese",true,Latino,1.9187063445560242,5030,Europe,25,10
+622,3,"No preference","Young","Museum;Board Games;Swimming","Snowboard;Ski","Korean;American",true,Black,1.7157389353912755,3619,South America,14,8
+623,5,"Female","Senior","Museum;Swimming;Movie Theater","Sightseeing;Road Running","Korean;American;Thai;Mexican",false,Asian,0.9193081782798964,3761,North America,16,9
+624,4,"Male","Middle-aged","Museum;Pool","Hiking;Snowboard;Snowboard","Japanese;Chinese",false,Asian,2.2098652341787495,8991,Asia,21,7
+625,5,"No preference","Senior","Billiards;Pool","Sightseeing;Sightseeing","Mexican;Thai;Chinese;Taiwanese",false,Indian,0.6535783799725867,8558,Asia,17,4
+626,1,"Female","Young","Card Games;Billiards;Billiards","Sightseeing;Trail Running;Ski","Mexican;Taiwanese",true,Hispanic,0.33867917801838604,3918,Africa,3,1
+627,2,"Male","Senior","Movie Theater;Board Games;Swimming","Biking;Biking","Mexican;Mexican;Mexican;Thai",false,Indian,1.138092051791208,2541,Australia,13,3
+628,3,"No preference","Senior","Museum;Pool;Movie Theater","Road Running;Road Running","Chinese;Taiwanese;Vietnamese",true,Indian,0.5389707464262804,4852,Asia,9,8
+629,1,"No preference","Young","Pool;Card Games;Swimming","Biking;Ski","American;Japanese",false,Hispanic,1.8748003161823192,1608,Australia,3,8
+630,5,"Male","Middle-aged","Museum;Museum","Sightseeing;Hiking;Hiking","Chinese;Vietnamese;Thai",false,Indian,0.049149407246044115,5143,Europe,9,2
+631,2,"Male","Middle-aged","Swimming;Swimming;Card Games","Ski;Road Running","American;Chinese",false,White,0.3592472162608559,9574,North America,27,8
+632,1,"Male","Senior","Movie Theater;Board Games;Museum","Sightseeing;Snowboard","American;Chinese;Mexican",true,White,0.012191829937103365,6532,South America,28,7
+633,5,"No preference","Young","Swimming;Card Games;Board Games","Ski;Trail Running","Japanese;Japanese;Italian",false,Indian,0.1514004768651765,5617,Europe,22,3
+634,3,"Female","Senior","Museum;Pool","Biking;Snowboard","Mexican;Italian;Vietnamese",true,Hispanic,0.4895951769772331,8856,Australia,18,6
+635,1,"Male","Middle-aged","Card Games;Museum;Museum","Biking;Biking","American;Vietnamese;Thai;Japanese",true,Indian,0.34799837966175395,2416,Europe,25,1
+636,2,"Female","Middle-aged","Billiards;Museum","Sightseeing;Ski;Hiking","Mexican;American",true,Asian,0.3144633737178791,7354,Africa,13,5
+637,2,"Female","Senior","Movie Theater;Museum","Biking;Road Running;Sightseeing","American;Korean",false,Black,0.7815290575326196,8496,Asia,23,8
+638,1,"Female","Senior","Movie Theater;Pool;Billiards","Hiking;Biking;Snowboard","Thai;Vietnamese;Thai;Thai",false,White,0.01281995935064594,2601,Asia,21,9
+639,1,"Female","Middle-aged","Board Games;Swimming","Sightseeing;Biking;Ski","Thai;Taiwanese;Korean;American",false,Latino,0.11051356179876853,3424,Africa,24,10
+640,4,"Male","Senior","Museum;Movie Theater","Biking;Biking","Taiwanese;Taiwanese;Mexican",false,Black,1.304740018310493,7984,Africa,7,10
+641,2,"Female","Young","Card Games;Card Games","Snowboard;Road Running;Snowboard","Italian;Japanese;Korean",false,White,2.142835213830627,5936,North America,26,7
+642,5,"Female","Young","Card Games;Movie Theater;Museum","Sightseeing;Sightseeing","Japanese;Italian;American;Vietnamese",false,Hispanic,0.07534628224377732,5131,South America,24,1
+643,4,"No preference","Middle-aged","Pool;Board Games","Biking;Snowboard","Thai;Thai",true,Other,0.33814905750959007,2894,Europe,17,7
+644,3,"No preference","Senior","Movie Theater;Museum;Board Games","Trail Running;Road Running","Korean;Taiwanese",false,Hispanic,0.8624964796711507,7746,South America,12,2
+645,2,"No preference","Middle-aged","Swimming;Board Games;Swimming","Snowboard;Snowboard;Hiking","Japanese;Thai;Italian;American",true,Other,1.3174639381154454,3038,Asia,15,10
+646,5,"Female","Middle-aged","Pool;Swimming","Biking;Sightseeing","Chinese;Chinese;Japanese;Korean",true,Other,0.09159703497486685,4974,South America,27,4
+647,5,"Female","Senior","Billiards;Museum;Movie Theater","Snowboard;Hiking","Japanese;American;American;Italian",true,Indian,0.5054623488082365,8581,North America,3,10
+648,4,"Female","Middle-aged","Museum;Museum;Pool","Biking;Hiking","American;Italian;Italian;Japanese",true,Hispanic,0.30013901464683496,8031,North America,7,1
+649,4,"Female","Middle-aged","Billiards;Museum;Billiards","Hiking;Snowboard;Ski","Mexican;Taiwanese",true,Black,2.276603438869915,8965,Europe,5,9
+650,3,"Female","Senior","Board Games;Pool;Billiards","Ski;Snowboard","Korean;Japanese;American;Mexican",false,Other,0.12565454563047024,7517,North America,21,5
+651,1,"No preference","Senior","Card Games;Board Games","Trail Running;Ski;Trail Running","Korean;Taiwanese;Japanese",true,Asian,1.7185509757464985,7661,South America,23,5
+652,5,"Male","Middle-aged","Card Games;Card Games;Movie Theater","Road Running;Sightseeing","Vietnamese;Japanese;Taiwanese;Japanese",true,Hispanic,0.058043187593284445,5852,Europe,14,5
+653,3,"Female","Middle-aged","Movie Theater;Card Games","Trail Running;Sightseeing;Sightseeing","Taiwanese;Vietnamese",false,Hispanic,1.932808517099986,2920,Europe,22,2
+654,2,"Male","Senior","Billiards;Museum","Trail Running;Hiking","Vietnamese;Japanese;Italian",true,Hispanic,0.567378151318757,3417,South America,21,4
+655,3,"Male","Senior","Swimming;Museum","Ski;Snowboard","American;Mexican;Chinese",false,Indian,1.3423803416865463,5627,Asia,27,10
+656,3,"Female","Middle-aged","Movie Theater;Museum;Billiards","Hiking;Trail Running","Mexican;Taiwanese",false,Asian,1.1470854806386852,8940,Asia,3,4
+657,3,"Female","Middle-aged","Swimming;Museum","Trail Running;Sightseeing;Road Running","Taiwanese;American;Chinese;Korean",true,Asian,1.5207919051659735,2339,Australia,4,2
+658,4,"Female","Senior","Pool;Movie Theater;Museum","Snowboard;Trail Running","Mexican;Japanese",false,Black,0.24729829994078376,6340,Africa,24,2
+659,3,"No preference","Young","Board Games;Movie Theater;Card Games","Road Running;Biking","Chinese;Japanese;Japanese;Chinese",true,Asian,1.0125821436507294,9185,South America,1,6
+660,2,"No preference","Middle-aged","Card Games;Billiards;Card Games","Sightseeing;Ski;Biking","Japanese;Chinese;American",true,Black,0.2254651457296852,8445,North America,30,8
+661,2,"Female","Middle-aged","Billiards;Movie Theater;Museum","Sightseeing;Trail Running;Ski","Chinese;Taiwanese",false,Black,0.23288880328524908,5779,Europe,10,1
+662,3,"Male","Young","Swimming;Board Games;Card Games","Snowboard;Road Running;Road Running","Taiwanese;Italian;Thai",false,Hispanic,1.4684672738572986,2857,North America,18,8
+663,3,"Female","Senior","Museum;Billiards;Swimming","Trail Running;Snowboard","Chinese;American",true,Hispanic,0.6509071736828772,8041,Asia,28,1
+664,4,"Male","Middle-aged","Card Games;Movie Theater;Movie Theater","Hiking;Trail Running","Taiwanese;Japanese",true,Indian,4.341309972808,9186,Europe,1,5
+665,4,"Male","Middle-aged","Museum;Card Games;Swimming","Road Running;Hiking","Italian;Mexican",false,Hispanic,0.1463139153758013,4125,Africa,7,7
+666,1,"Male","Young","Museum;Billiards","Snowboard;Road Running;Hiking","Korean;Mexican;Japanese",true,Latino,0.9638294408971712,9169,Australia,8,10
+667,4,"Male","Senior","Board Games;Card Games;Card Games","Snowboard;Trail Running","American;Taiwanese",true,Hispanic,0.6468619490813745,4523,Asia,28,5
+668,5,"No preference","Young","Card Games;Billiards","Trail Running;Ski;Sightseeing","Mexican;Italian",false,Other,1.098961123560071,4218,Africa,1,1
+669,2,"Female","Middle-aged","Billiards;Card Games","Road Running;Snowboard","Mexican;Chinese;Thai;Chinese",false,Hispanic,0.5569289491803594,3651,Australia,1,8
+670,3,"No preference","Young","Museum;Card Games;Swimming","Sightseeing;Ski","Thai;Mexican",false,Other,1.6771206504178733,1269,Africa,1,2
+671,1,"No preference","Middle-aged","Museum;Billiards;Pool","Sightseeing;Biking","Italian;Chinese;American;Chinese",false,Asian,0.3111251500621385,6448,Africa,9,10
+672,4,"Female","Senior","Pool;Movie Theater;Board Games","Ski;Hiking","American;American;Chinese",false,Black,0.8678913313082497,7450,Europe,8,2
+673,4,"No preference","Senior","Billiards;Board Games;Board Games","Trail Running;Road Running","Thai;Mexican;Vietnamese",true,Indian,0.8966909079844781,9041,Asia,1,4
+674,2,"Female","Middle-aged","Billiards;Swimming","Biking;Snowboard;Biking","Taiwanese;Chinese",true,Other,0.4207889332870988,8815,Africa,23,6
+675,1,"Male","Senior","Museum;Museum;Card Games","Hiking;Trail Running;Road Running","Mexican;Taiwanese;Mexican;Vietnamese",true,Latino,1.9519302358280706,6177,Europe,20,10
+676,4,"Female","Young","Swimming;Museum;Card Games","Road Running;Trail Running;Hiking","Chinese;Mexican;Korean",false,Indian,1.002319909825928,9836,Africa,20,7
+677,2,"No preference","Middle-aged","Billiards;Movie Theater;Museum","Hiking;Trail Running","Chinese;Taiwanese",true,Indian,0.983546019867672,4292,North America,18,8
+678,3,"No preference","Middle-aged","Museum;Board Games;Museum","Trail Running;Sightseeing","Japanese;Japanese;Thai;Chinese",false,Hispanic,0.8754313776234455,6133,North America,5,1
+679,4,"Male","Young","Movie Theater;Movie Theater;Movie Theater","Biking;Biking;Trail Running","Taiwanese;Taiwanese;Mexican",false,Latino,0.3277306294578033,8692,Asia,26,7
+680,4,"Male","Senior","Pool;Card Games","Hiking;Snowboard","Italian;Taiwanese",true,Asian,1.326553002126746,1959,Europe,18,3
+681,4,"No preference","Young","Board Games;Card Games;Card Games","Road Running;Hiking","Vietnamese;Vietnamese;Mexican",true,Other,1.9234033001151005,3547,North America,20,8
+682,4,"Male","Middle-aged","Card Games;Billiards;Swimming","Sightseeing;Snowboard;Ski","Korean;American;Italian;Japanese",false,White,0.0016275455459240262,4029,Europe,27,3
+683,1,"Female","Young","Billiards;Pool;Swimming","Ski;Ski;Ski","Vietnamese;Mexican;Italian;Chinese",true,Other,1.3459604174826683,8328,Asia,27,5
+684,4,"Female","Middle-aged","Card Games;Card Games","Biking;Ski;Hiking","Italian;Taiwanese;Italian;Vietnamese",false,Hispanic,0.22581708858350527,9015,Australia,16,5
+685,5,"Male","Senior","Billiards;Museum;Movie Theater","Ski;Snowboard","Italian;Taiwanese;Japanese",false,Hispanic,0.5374996924740633,9903,Australia,29,7
+686,5,"No preference","Middle-aged","Movie Theater;Card Games;Swimming","Snowboard;Hiking","Korean;Mexican;Korean",false,Hispanic,0.4092201173216738,1754,Africa,2,1
+687,3,"Female","Senior","Pool;Movie Theater","Biking;Biking;Snowboard","American;Taiwanese",true,Asian,2.925738142817632,7531,Africa,24,4
+688,2,"No preference","Young","Museum;Swimming;Movie Theater","Sightseeing;Sightseeing","Korean;Vietnamese;Thai;American",true,Black,0.5900955213405686,5133,Australia,23,5
+689,5,"Male","Young","Pool;Museum;Pool","Ski;Sightseeing;Ski","Taiwanese;Taiwanese;Taiwanese;Mexican",false,Black,0.795667366257278,7030,North America,1,6
+690,3,"Male","Young","Board Games;Billiards;Pool","Ski;Snowboard;Ski","Vietnamese;Japanese;American",false,Asian,0.97044843755254,4187,Africa,21,8
+691,5,"Male","Middle-aged","Card Games;Billiards;Board Games","Biking;Biking","Japanese;Taiwanese;Italian;Vietnamese",true,Hispanic,0.8144099090771877,2308,Africa,24,8
+692,4,"No preference","Middle-aged","Board Games;Pool;Movie Theater","Road Running;Sightseeing;Hiking","Chinese;American;Vietnamese;Taiwanese",true,Other,0.0773025725928237,6514,Africa,18,7
+693,4,"No preference","Middle-aged","Board Games;Movie Theater","Sightseeing;Sightseeing;Snowboard","Chinese;Korean;Vietnamese;Taiwanese",false,Hispanic,2.974120502292082,9899,North America,28,6
+694,3,"Male","Middle-aged","Movie Theater;Billiards","Hiking;Hiking;Biking","Mexican;Thai;Japanese;Vietnamese",false,Black,1.3041870051048867,7164,Europe,4,10
+695,5,"Female","Young","Swimming;Board Games","Biking;Snowboard","Chinese;Chinese;Italian",true,Asian,1.3126147312716887,6617,South America,9,1
+696,5,"Male","Senior","Swimming;Museum","Hiking;Ski;Road Running","Korean;Vietnamese;Korean;Thai",false,Hispanic,1.9480817229685563,6355,Africa,11,5
+697,1,"Female","Middle-aged","Board Games;Museum","Sightseeing;Sightseeing","Chinese;Thai",false,Hispanic,2.4863179498110717,7876,Europe,11,2
+698,1,"Female","Middle-aged","Card Games;Pool","Sightseeing;Snowboard;Sightseeing","Japanese;Korean",true,Hispanic,0.01748620826610999,9074,North America,6,5
+699,3,"Male","Senior","Swimming;Billiards","Trail Running;Hiking","American;Italian",false,White,0.0918044505800311,2373,Africa,23,3
+700,2,"No preference","Young","Pool;Board Games;Pool","Sightseeing;Biking;Sightseeing","Chinese;Taiwanese;Italian",false,Latino,0.011152086642955035,2407,Asia,16,6
+701,1,"Female","Young","Movie Theater;Movie Theater","Biking;Sightseeing;Trail Running","Mexican;Korean",true,Asian,1.6413134807223917,3118,Asia,23,2
+702,1,"Female","Young","Swimming;Museum;Museum","Snowboard;Hiking","Vietnamese;Chinese",false,Asian,4.233039121828246,2873,North America,11,7
+703,1,"Male","Senior","Card Games;Museum;Movie Theater","Trail Running;Biking","Chinese;Thai;Vietnamese;Vietnamese",true,Latino,0.4308431297191797,2822,Australia,24,5
+704,2,"No preference","Middle-aged","Museum;Movie Theater","Hiking;Ski","Vietnamese;Italian;Vietnamese",true,Other,0.04040812252481291,7702,North America,4,2
+705,3,"No preference","Young","Movie Theater;Movie Theater;Board Games","Sightseeing;Hiking","Italian;Chinese;Italian;American",true,White,0.12526108234854508,3485,South America,27,5
+706,4,"Male","Young","Swimming;Billiards;Pool","Hiking;Road Running","Thai;Mexican",true,Asian,0.7722261681251518,7099,Africa,26,10
+707,3,"No preference","Middle-aged","Billiards;Movie Theater","Road Running;Sightseeing;Trail Running","Italian;Korean",false,Asian,0.47572372775707994,8803,Australia,9,1
+708,4,"Female","Middle-aged","Movie Theater;Movie Theater","Biking;Snowboard","Italian;Mexican",false,Black,0.336833739500632,7387,Europe,30,3
+709,1,"No preference","Middle-aged","Museum;Card Games;Card Games","Trail Running;Biking;Snowboard","Chinese;Taiwanese;Chinese;Korean",false,Indian,0.27235764440195925,4147,North America,21,5
+710,1,"Female","Middle-aged","Pool;Museum","Trail Running;Ski","Vietnamese;Japanese;Japanese;Vietnamese",false,Asian,0.5922648165757727,2973,South America,12,7
+711,2,"Female","Senior","Board Games;Movie Theater","Hiking;Road Running","American;American;Thai;Chinese",true,Latino,0.09150614249548039,2301,Africa,4,2
+712,1,"Male","Middle-aged","Pool;Museum","Snowboard;Biking;Snowboard","Taiwanese;Thai;American;Mexican",false,Hispanic,2.4912178615638667,3833,North America,4,1
+713,2,"Male","Middle-aged","Swimming;Movie Theater","Trail Running;Snowboard","Taiwanese;Korean;Korean",true,Latino,1.069643711465899,4968,Asia,28,5
+714,4,"No preference","Middle-aged","Card Games;Movie Theater","Sightseeing;Snowboard","American;Thai",false,White,1.6405447959858832,6155,Australia,24,3
+715,4,"No preference","Senior","Swimming;Card Games","Sightseeing;Snowboard","American;Thai;Taiwanese;Korean",false,Indian,1.4301485351625844,4202,South America,23,9
+716,4,"Female","Middle-aged","Swimming;Museum","Sightseeing;Ski","Mexican;American;American",true,Hispanic,0.9456727901821551,1977,Australia,22,6
+717,1,"Female","Young","Board Games;Pool","Ski;Road Running","Taiwanese;Chinese;Thai",true,Asian,1.2599546670199477,4841,Australia,30,5
+718,5,"No preference","Young","Museum;Pool;Swimming","Hiking;Sightseeing;Hiking","Mexican;Italian;Japanese",false,Latino,0.08268048869493876,7193,South America,14,10
+719,1,"No preference","Young","Swimming;Pool","Biking;Road Running","Japanese;American",true,Other,0.5179430244366143,2935,Africa,12,2
+720,2,"Male","Young","Board Games;Pool","Hiking;Road Running;Biking","Chinese;American;American",false,Latino,0.5974371983067877,3288,Europe,24,7
+721,1,"Female","Senior","Swimming;Swimming;Board Games","Hiking;Biking;Snowboard","American;Taiwanese;Japanese;Japanese",true,Asian,1.5531872194451073,4434,South America,10,5
+722,4,"Female","Middle-aged","Museum;Card Games;Card Games","Trail Running;Biking;Ski","Vietnamese;Thai;Korean;Taiwanese",true,Latino,2.382843868803575,2205,Europe,18,7
+723,4,"Female","Young","Billiards;Billiards;Billiards","Hiking;Snowboard","American;Thai;Mexican",true,Asian,0.13687370505266666,1075,Africa,21,5
+724,1,"Female","Young","Movie Theater;Museum;Movie Theater","Snowboard;Trail Running","Mexican;Japanese;American;Mexican",true,Latino,0.03982734030237141,8299,South America,28,5
+725,3,"Male","Senior","Movie Theater;Board Games","Ski;Road Running","American;Thai",true,Other,0.6906773685165122,1585,Europe,16,8
+726,3,"Female","Senior","Swimming;Movie Theater","Biking;Sightseeing","Mexican;American",false,White,0.2224605987509662,3756,Australia,6,6
+727,2,"Male","Senior","Board Games;Swimming","Sightseeing;Biking;Road Running","American;Taiwanese;Italian;Taiwanese",false,Indian,0.07500480276939699,7574,Australia,26,7
+728,5,"Female","Senior","Board Games;Card Games;Pool","Ski;Road Running;Hiking","Thai;Taiwanese",false,Indian,0.3550915956330937,8277,Africa,29,3
+729,1,"Male","Middle-aged","Movie Theater;Billiards","Hiking;Hiking;Ski","Korean;Mexican",false,Hispanic,1.4609194998647168,7242,South America,17,3
+730,3,"Female","Senior","Board Games;Billiards","Hiking;Trail Running","Taiwanese;Vietnamese",true,Asian,0.5794210879201795,9985,South America,12,2
+731,4,"No preference","Middle-aged","Swimming;Movie Theater","Trail Running;Hiking;Sightseeing","Vietnamese;Vietnamese",false,Latino,0.5764690755572855,9642,Africa,22,9
+732,5,"Female","Middle-aged","Museum;Card Games","Hiking;Road Running","American;Thai;Vietnamese;Italian",true,Hispanic,0.12888994756545646,7406,North America,5,7
+733,1,"No preference","Young","Swimming;Museum","Sightseeing;Hiking;Ski","Thai;Chinese;Korean",false,Other,0.7478663438221319,4454,North America,20,2
+734,1,"No preference","Senior","Movie Theater;Movie Theater;Board Games","Road Running;Trail Running;Biking","Korean;Vietnamese",false,Black,0.3663398789086757,4623,South America,3,6
+735,5,"Male","Young","Pool;Card Games;Pool","Ski;Biking","Japanese;Italian;Korean",true,Hispanic,0.7261586148994514,4985,South America,10,9
+736,3,"Male","Young","Pool;Swimming","Hiking;Snowboard;Road Running","Vietnamese;Mexican;Mexican;Vietnamese",true,Other,1.6427665724563625,4693,Europe,4,8
+737,1,"Male","Young","Movie Theater;Pool","Snowboard;Sightseeing;Ski","Vietnamese;Korean;Thai;American",false,Latino,0.7724718771375602,4463,Australia,26,3
+738,4,"No preference","Senior","Swimming;Pool","Hiking;Road Running;Road Running","Italian;American",true,Indian,0.13391074775547937,9298,South America,12,9
+739,4,"No preference","Middle-aged","Card Games;Billiards","Sightseeing;Sightseeing;Snowboard","Mexican;Thai;Italian;Taiwanese",false,Latino,1.41264420927945,2500,Europe,3,3
+740,3,"No preference","Middle-aged","Board Games;Pool","Trail Running;Hiking","American;Taiwanese;Taiwanese",true,Other,0.7339218176936637,4408,Asia,19,7
+741,1,"Male","Middle-aged","Movie Theater;Movie Theater;Museum","Snowboard;Snowboard;Road Running","Japanese;Japanese;Korean",false,Asian,1.6605104680634255,6529,Europe,26,4
+742,5,"Female","Middle-aged","Billiards;Card Games","Hiking;Trail Running;Hiking","Chinese;American;Italian;Vietnamese",false,Black,0.4398445187560085,4441,Australia,9,1
+743,4,"Male","Young","Card Games;Museum","Ski;Snowboard;Hiking","Vietnamese;Mexican",true,White,2.208968880218896,2646,South America,22,5
+744,1,"No preference","Middle-aged","Pool;Movie Theater;Board Games","Sightseeing;Hiking;Ski","Mexican;Mexican",true,Black,1.6877405098712517,9215,South America,28,3
+745,3,"Male","Young","Billiards;Billiards;Pool","Sightseeing;Trail Running;Hiking","Vietnamese;Mexican;Mexican;Chinese",true,White,0.03945812859525587,6522,Australia,14,8
+746,4,"Female","Senior","Pool;Swimming;Museum","Biking;Trail Running;Hiking","Taiwanese;Korean",true,Hispanic,1.1755988565449178,9994,North America,4,10
+747,1,"No preference","Young","Board Games;Card Games","Trail Running;Hiking;Road Running","Vietnamese;Taiwanese;Mexican;Vietnamese",false,White,1.8018660024262227,3083,Africa,27,9
+748,3,"Male","Young","Swimming;Billiards","Ski;Road Running","Thai;Japanese;Taiwanese;Chinese",false,Other,2.4477356120370923,1385,Europe,4,3
+749,5,"Male","Young","Billiards;Pool","Hiking;Ski;Snowboard","Vietnamese;Thai;American;Mexican",true,Asian,0.06170107065520924,6614,Europe,3,2
+750,1,"No preference","Young","Board Games;Card Games;Billiards","Road Running;Snowboard","Chinese;Korean;Japanese;Vietnamese",false,Black,0.20525589189101737,5553,North America,21,3
+751,3,"Male","Middle-aged","Billiards;Museum","Trail Running;Sightseeing","Taiwanese;Italian;Thai",false,Indian,0.12439657058569357,3037,Europe,20,10
+752,5,"Male","Senior","Card Games;Museum","Snowboard;Hiking","Italian;Vietnamese",true,Indian,0.004595931102909077,5939,North America,8,2
+753,2,"Male","Young","Swimming;Museum","Hiking;Sightseeing","Vietnamese;Korean;Thai",false,Black,0.5307028945841963,8646,North America,14,5
+754,4,"No preference","Senior","Museum;Movie Theater;Pool","Snowboard;Biking","American;Taiwanese;Italian",true,Indian,0.6199546443818892,1574,Australia,9,4
+755,3,"Male","Young","Card Games;Card Games;Pool","Biking;Hiking;Snowboard","Mexican;American",false,Latino,0.8871045162505408,5373,Asia,25,5
+756,5,"Female","Senior","Pool;Swimming","Road Running;Snowboard","Vietnamese;Taiwanese",false,Asian,0.13844178673580007,9773,Asia,16,9
+757,4,"No preference","Middle-aged","Card Games;Pool;Pool","Sightseeing;Sightseeing;Snowboard","Taiwanese;Chinese",true,Asian,3.2974019019819143,2883,South America,30,2
+758,4,"Male","Middle-aged","Swimming;Movie Theater","Biking;Biking","Italian;Italian",true,Asian,0.5591235591077147,8664,North America,30,9
+759,1,"Female","Middle-aged","Board Games;Swimming","Hiking;Hiking","Japanese;Thai",false,Asian,3.6483151283858706,3601,Africa,22,9
+760,3,"Female","Middle-aged","Swimming;Billiards;Card Games","Sightseeing;Snowboard","Korean;Thai;Chinese",true,Black,1.1491351181919633,9891,Europe,1,3
+761,4,"No preference","Senior","Movie Theater;Billiards","Biking;Road Running;Road Running","Taiwanese;Chinese",false,Black,0.07415096297190915,9465,Africa,4,8
+762,3,"Male","Senior","Board Games;Museum","Snowboard;Sightseeing","Korean;Chinese;Japanese;American",false,White,0.6724660894910669,6323,Asia,28,8
+763,3,"No preference","Middle-aged","Billiards;Museum","Snowboard;Sightseeing","Taiwanese;Chinese;Chinese;Chinese",true,Hispanic,1.0051697500265577,5160,North America,3,10
+764,5,"No preference","Young","Pool;Pool;Swimming","Biking;Biking;Biking","Mexican;Italian;Chinese;Italian",true,Hispanic,1.0624438450111007,1791,Europe,14,4
+765,4,"No preference","Young","Pool;Billiards","Road Running;Road Running","Korean;Mexican;Korean;Chinese",true,Hispanic,1.2592303365627324,2152,Australia,9,6
+766,5,"No preference","Young","Pool;Billiards","Snowboard;Ski;Snowboard","American;American;American",true,Indian,0.7733522785657072,2168,Asia,30,7
+767,4,"Female","Senior","Card Games;Pool;Billiards","Hiking;Snowboard","Mexican;American;Chinese;Chinese",false,Asian,2.8908376658282733,1055,North America,12,5
+768,2,"Female","Young","Movie Theater;Swimming;Movie Theater","Ski;Ski","Thai;Korean;Japanese",true,Other,1.4462701178699495,9974,North America,24,9
+769,5,"Female","Senior","Billiards;Card Games","Ski;Ski;Sightseeing","Taiwanese;Thai",true,Black,1.127552833228594,7842,Europe,27,9
+770,4,"Male","Young","Board Games;Card Games","Biking;Ski;Ski","Chinese;Mexican;Vietnamese;Thai",false,Asian,1.39521767817947,6428,Europe,2,1
+771,4,"Female","Young","Board Games;Swimming","Sightseeing;Trail Running","Mexican;Japanese;Chinese",true,Asian,0.36592280814757366,5411,South America,2,9
+772,5,"Male","Young","Pool;Board Games","Ski;Trail Running;Ski","Vietnamese;American;American;American",true,Latino,3.9122463302582258,9123,South America,15,1
+773,4,"Female","Young","Pool;Board Games","Trail Running;Ski;Sightseeing","Italian;Vietnamese;Taiwanese",false,Hispanic,0.13713457502357318,6863,Asia,28,4
+774,2,"No preference","Middle-aged","Pool;Billiards;Swimming","Snowboard;Ski;Biking","Vietnamese;Japanese;Thai",false,Hispanic,0.6479714885224331,8474,North America,21,4
+775,5,"Male","Senior","Board Games;Card Games;Board Games","Road Running;Sightseeing;Biking","Japanese;Vietnamese;Japanese",false,Other,4.958855831943566,7981,South America,27,4
+776,5,"Female","Middle-aged","Pool;Board Games","Biking;Hiking;Biking","Taiwanese;Taiwanese",false,White,1.8890155165591578,6513,Australia,12,5
+777,3,"Female","Senior","Card Games;Billiards","Ski;Trail Running;Biking","Italian;Japanese;Thai;Japanese",true,Black,0.7028017122044669,6042,Europe,2,10
+778,2,"Male","Middle-aged","Card Games;Board Games;Card Games","Sightseeing;Sightseeing;Hiking","Taiwanese;American;Mexican",false,White,0.7304504522482724,4493,Europe,20,9
+779,4,"No preference","Middle-aged","Card Games;Card Games","Hiking;Ski","Korean;Vietnamese;Mexican;American",false,Hispanic,0.9785936675606706,2385,Asia,27,9
+780,5,"Female","Young","Billiards;Pool","Ski;Ski;Sightseeing","Chinese;American",true,Asian,0.36246584954177863,1701,North America,11,4
+781,4,"Female","Senior","Board Games;Museum","Biking;Sightseeing","Taiwanese;Chinese;Vietnamese;Taiwanese",true,Black,1.897552721082634,5335,Africa,13,2
+782,5,"No preference","Senior","Swimming;Card Games","Ski;Snowboard;Sightseeing","Chinese;Taiwanese",false,Hispanic,1.0564732792220684,8545,Asia,19,9
+783,5,"No preference","Young","Museum;Swimming;Movie Theater","Biking;Road Running","Italian;Taiwanese;Chinese;Japanese",false,Asian,1.635750133757253,1412,South America,1,7
+784,4,"Male","Middle-aged","Card Games;Museum","Hiking;Sightseeing;Ski","American;Japanese;Italian",true,Other,1.7859409668861497,4777,North America,10,4
+785,1,"No preference","Senior","Board Games;Swimming","Sightseeing;Snowboard","American;Italian;Thai",false,Black,0.4669172428134257,5088,South America,9,3
+786,3,"Female","Young","Museum;Museum;Board Games","Road Running;Snowboard","Taiwanese;Vietnamese",true,Other,1.1475842128694986,4492,Australia,23,1
+787,3,"Male","Middle-aged","Billiards;Card Games","Sightseeing;Biking;Snowboard","Mexican;Chinese;Taiwanese",false,Black,0.11810175531591366,4350,Europe,18,1
+788,3,"No preference","Middle-aged","Pool;Billiards","Snowboard;Sightseeing;Biking","Taiwanese;Vietnamese;Thai",false,Asian,0.19997777959132854,6211,Asia,16,8
+789,4,"No preference","Young","Card Games;Swimming","Ski;Sightseeing","Mexican;Mexican",true,Hispanic,1.2772096380452973,9994,Europe,6,10
+790,5,"Male","Middle-aged","Board Games;Board Games","Snowboard;Ski;Sightseeing","Japanese;Chinese;Chinese;Taiwanese",true,White,3.4046417393855246,2156,Australia,23,5
+791,2,"Male","Young","Movie Theater;Movie Theater","Biking;Sightseeing","Thai;Thai;Chinese;Taiwanese",true,White,1.153333441447756,2787,Europe,28,10
+792,3,"Male","Senior","Museum;Movie Theater;Museum","Trail Running;Sightseeing","Chinese;Chinese;Thai",false,Asian,0.9705673636035518,7886,Africa,27,9
+793,3,"Female","Middle-aged","Movie Theater;Card Games;Card Games","Road Running;Trail Running","Korean;American;Korean;American",false,Other,0.7868972806032091,4017,North America,19,4
+794,2,"Male","Senior","Swimming;Museum;Billiards","Hiking;Biking;Sightseeing","American;Taiwanese;Korean;Korean",false,Other,0.3230549120212371,2625,South America,14,6
+795,1,"Female","Senior","Swimming;Movie Theater;Swimming","Trail Running;Road Running;Ski","Chinese;Japanese",false,Latino,1.9561071275561273,4591,North America,18,1
+796,3,"No preference","Senior","Pool;Billiards;Pool","Sightseeing;Snowboard;Biking","Japanese;Korean;Mexican",false,Latino,0.0816579020616739,8927,North America,20,10
+797,5,"Male","Middle-aged","Pool;Swimming;Billiards","Sightseeing;Ski;Hiking","Mexican;Mexican",false,Other,0.3312462868728426,3075,Australia,21,8
+798,4,"Male","Young","Card Games;Museum;Museum","Road Running;Biking;Sightseeing","Japanese;Thai;American;Mexican",false,Black,0.09578438797164725,5083,Africa,29,3
+799,1,"Female","Middle-aged","Museum;Board Games;Pool","Biking;Ski","Thai;Japanese;Mexican;American",false,Other,0.9190320781569676,5629,Europe,17,2
+800,2,"Female","Middle-aged","Billiards;Billiards","Hiking;Ski","Mexican;Italian;Korean",true,Black,0.7769068822587876,5075,Asia,21,3
+801,2,"Female","Senior","Billiards;Card Games","Hiking;Sightseeing;Ski","Chinese;Mexican;Vietnamese",true,Other,2.0089525120111102,8739,Australia,26,7
+802,5,"No preference","Senior","Billiards;Billiards;Card Games","Hiking;Sightseeing","Italian;American;Taiwanese;Korean",false,Black,1.3960683216343819,2678,Asia,1,3
+803,3,"No preference","Young","Board Games;Pool;Board Games","Biking;Ski;Trail Running","Italian;Italian;Taiwanese",true,Other,0.21707187470618228,1015,Europe,7,2
+804,3,"Male","Senior","Movie Theater;Card Games;Museum","Trail Running;Ski","Thai;Japanese;Mexican;Japanese",false,Other,0.4743823645573157,1345,Africa,24,10
+805,2,"Female","Middle-aged","Board Games;Card Games;Card Games","Hiking;Sightseeing;Snowboard","Taiwanese;Korean;Taiwanese;Vietnamese",true,Latino,0.011699109737145705,5191,North America,5,2
+806,2,"Male","Young","Swimming;Billiards;Swimming","Hiking;Road Running;Ski","Italian;Japanese",false,Asian,2.1217071347158685,3581,South America,5,5
+807,3,"No preference","Young","Board Games;Board Games;Billiards","Hiking;Road Running","Korean;Vietnamese;Japanese;Thai",false,Indian,1.4562426947966531,2043,South America,25,4
+808,2,"Female","Senior","Billiards;Movie Theater","Road Running;Biking;Ski","Italian;Thai",true,Asian,1.8008214647170846,2138,Africa,28,1
+809,1,"Female","Middle-aged","Swimming;Movie Theater;Swimming","Biking;Snowboard","Vietnamese;Japanese;Japanese",true,Hispanic,0.048194400778893115,3358,North America,19,1
+810,5,"No preference","Senior","Movie Theater;Card Games;Card Games","Trail Running;Trail Running","American;Thai",true,Black,0.31076382865051794,1568,Europe,4,1
+811,5,"Female","Middle-aged","Movie Theater;Pool","Hiking;Trail Running;Road Running","Taiwanese;American;Korean;Thai",true,Asian,0.8918940897974933,6087,Europe,10,10
+812,4,"Female","Young","Movie Theater;Board Games;Card Games","Trail Running;Sightseeing;Ski","Mexican;Taiwanese",true,Other,0.163982370501511,4764,Europe,4,2
+813,1,"No preference","Senior","Movie Theater;Movie Theater;Pool","Road Running;Hiking;Trail Running","Thai;Chinese;Vietnamese;Korean",true,Other,1.0018323373542481,1345,Asia,16,10
+814,1,"Female","Senior","Movie Theater;Museum;Movie Theater","Trail Running;Sightseeing","Taiwanese;American",true,Latino,0.25825545914801035,1319,Asia,25,10
+815,2,"No preference","Young","Billiards;Movie Theater;Museum","Hiking;Ski;Biking","Taiwanese;Mexican;Chinese;Italian",true,Other,0.05668653369322369,8553,South America,29,5
+816,4,"Male","Young","Swimming;Billiards","Hiking;Biking;Road Running","Thai;Japanese",true,Latino,0.4671403627937971,1828,South America,18,6
+817,2,"Male","Young","Movie Theater;Board Games;Pool","Road Running;Biking","Vietnamese;Thai;American",true,Hispanic,0.31782929471404414,6055,Europe,20,3
+818,2,"Female","Middle-aged","Board Games;Card Games","Ski;Snowboard","Korean;Japanese",true,White,0.5291232111959986,1049,Asia,1,10
+819,2,"No preference","Middle-aged","Card Games;Pool;Board Games","Snowboard;Ski;Biking","Mexican;Taiwanese;Taiwanese;Korean",false,Indian,0.10247053300114983,1871,South America,7,1
+820,4,"Male","Middle-aged","Swimming;Billiards;Board Games","Trail Running;Hiking","Taiwanese;Taiwanese",true,Black,0.5835470215452959,7955,South America,19,8
+821,4,"No preference","Young","Museum;Movie Theater","Biking;Trail Running;Snowboard","Taiwanese;Taiwanese;Italian",true,Hispanic,1.5628468391288852,6200,South America,5,4
+822,4,"No preference","Middle-aged","Board Games;Billiards","Snowboard;Biking","Italian;Chinese;Korean",true,Other,0.82744641233659,5704,Africa,23,1
+823,4,"Female","Middle-aged","Pool;Pool;Pool","Sightseeing;Ski;Trail Running","Japanese;Italian",false,White,0.5194476181999524,7669,Asia,19,6
+824,5,"Male","Young","Board Games;Swimming","Biking;Snowboard","Taiwanese;Korean",true,White,0.01913802436712695,8528,Asia,20,3
+825,1,"Male","Senior","Museum;Board Games","Road Running;Sightseeing;Trail Running","Vietnamese;American;Mexican;Vietnamese",true,Black,2.668010544439027,9057,Australia,12,7
+826,1,"Female","Middle-aged","Billiards;Pool;Movie Theater","Biking;Sightseeing","Vietnamese;Italian",true,White,0.6382573427402725,6060,Asia,26,8
+827,1,"Female","Middle-aged","Museum;Pool","Sightseeing;Biking","Italian;Chinese;American",false,Black,0.05158070746877791,4482,South America,19,5
+828,5,"Female","Senior","Swimming;Swimming","Trail Running;Snowboard;Hiking","Mexican;Vietnamese;Mexican",true,Latino,0.07942466324378332,4211,North America,6,10
+829,2,"Female","Young","Swimming;Pool","Snowboard;Trail Running","Mexican;Thai",true,Hispanic,2.5023659883197817,2677,Africa,24,2
+830,5,"No preference","Senior","Board Games;Card Games;Movie Theater","Ski;Sightseeing","Taiwanese;Korean",true,Latino,0.47350133841248926,1504,Africa,17,3
+831,5,"No preference","Young","Museum;Billiards;Billiards","Trail Running;Hiking","Thai;Taiwanese;Vietnamese;Thai",true,Black,1.3534217123954453,6318,Europe,1,10
+832,4,"Female","Middle-aged","Card Games;Movie Theater","Ski;Ski;Trail Running","Thai;Korean",true,Latino,0.07762070597013639,1717,Asia,6,8
+833,3,"No preference","Middle-aged","Board Games;Billiards","Sightseeing;Trail Running","Vietnamese;Italian",true,Indian,0.048569366502457016,1817,South America,9,1
+834,2,"Female","Middle-aged","Billiards;Card Games;Card Games","Road Running;Road Running","Italian;Italian",false,Other,1.3629372016237555,9257,Asia,15,10
+835,2,"Female","Middle-aged","Swimming;Swimming","Hiking;Ski","Mexican;Italian;Vietnamese",true,Other,0.5117693692484491,5700,North America,6,4
+836,3,"Female","Young","Card Games;Movie Theater;Card Games","Snowboard;Snowboard","Korean;Mexican",true,Black,0.34893993237105686,5310,Africa,26,9
+837,3,"Male","Middle-aged","Billiards;Board Games;Pool","Ski;Snowboard","Mexican;Thai;Chinese",true,Asian,0.02408524031350145,9759,South America,11,7
+838,1,"No preference","Young","Swimming;Billiards;Pool","Road Running;Trail Running;Ski","Vietnamese;Chinese;Mexican",false,Latino,1.4179592620826633,7062,Europe,3,8
+839,1,"Male","Young","Museum;Card Games","Trail Running;Biking;Biking","Italian;Vietnamese;Japanese;Chinese",false,Other,0.4217006245426839,6205,Asia,18,5
+840,3,"No preference","Senior","Board Games;Board Games","Trail Running;Ski;Hiking","Vietnamese;Korean;Chinese",true,Indian,2.168038091100277,7077,North America,27,3
+841,5,"Female","Senior","Billiards;Movie Theater","Snowboard;Snowboard;Ski","Korean;Mexican;Vietnamese",true,White,4.709976285290034,8770,Asia,3,3
+842,4,"Male","Young","Card Games;Card Games","Ski;Trail Running","Chinese;American",true,Other,0.7649387224403199,1587,Africa,8,3
+843,1,"No preference","Middle-aged","Board Games;Swimming","Road Running;Road Running;Ski","Thai;Taiwanese",true,Hispanic,0.09306984759371842,2442,Asia,22,1
+844,3,"Male","Middle-aged","Pool;Pool;Board Games","Sightseeing;Ski;Ski","Japanese;Vietnamese;Chinese",true,Latino,3.5039987635866856,8289,Asia,29,7
+845,3,"No preference","Young","Movie Theater;Museum;Museum","Snowboard;Sightseeing;Trail Running","Taiwanese;Japanese;Vietnamese;Thai",false,Black,0.269808955785928,8395,Australia,24,10
+846,3,"Female","Young","Billiards;Billiards;Card Games","Ski;Road Running","Korean;Italian;Thai;Italian",false,White,0.18042459747432923,1410,Australia,17,3
+847,2,"No preference","Middle-aged","Card Games;Board Games;Swimming","Hiking;Hiking","Taiwanese;Chinese",true,Hispanic,0.4326692790213092,6650,North America,25,7
+848,3,"No preference","Young","Board Games;Swimming;Museum","Road Running;Road Running;Hiking","Mexican;Italian;Mexican;Mexican",true,Indian,1.7813160960831202,4382,Asia,6,3
+849,5,"Female","Young","Billiards;Museum","Biking;Trail Running","Vietnamese;Mexican;Thai",false,Asian,0.195842407448388,8371,Europe,10,6
+850,4,"No preference","Senior","Board Games;Board Games;Pool","Snowboard;Snowboard","Korean;Italian;Italian",false,Asian,0.18844801683948417,7038,North America,9,6
+851,4,"Male","Middle-aged","Movie Theater;Pool","Road Running;Sightseeing;Ski","Thai;Chinese;Japanese;Korean",false,Hispanic,1.5924033897652021,5663,North America,20,3
+852,3,"Female","Senior","Museum;Card Games","Hiking;Hiking;Hiking","Taiwanese;Chinese",false,Indian,0.09277414583615297,4998,Africa,11,4
+853,2,"Female","Senior","Card Games;Museum","Ski;Trail Running;Ski","Italian;Chinese;Vietnamese",false,Asian,0.45714154871999557,7599,Africa,14,6
+854,1,"Male","Young","Movie Theater;Museum;Billiards","Trail Running;Ski","Mexican;Japanese;Mexican",true,White,0.9497838920832609,8576,South America,23,6
+855,1,"Male","Senior","Billiards;Pool","Road Running;Snowboard","American;Korean;Vietnamese",true,White,0.31008821942318376,8513,Asia,28,10
+856,1,"Female","Middle-aged","Card Games;Movie Theater","Snowboard;Hiking","Japanese;American;Chinese;Mexican",false,Latino,0.18501453367753787,9534,Africa,23,10
+857,2,"Female","Senior","Pool;Card Games","Ski;Ski;Biking","Thai;Chinese",true,White,2.2159409488892923,7535,Africa,14,2
+858,2,"Female","Senior","Board Games;Museum;Billiards","Road Running;Ski","Vietnamese;Italian;Chinese;Japanese",true,Black,1.828465204558097,3939,North America,2,10
+859,2,"No preference","Middle-aged","Museum;Pool","Trail Running;Snowboard;Road Running","Taiwanese;Italian;American",false,Hispanic,4.930090838799982,7428,South America,4,1
+860,5,"Male","Young","Museum;Board Games","Ski;Biking","Italian;Vietnamese;Vietnamese;Chinese",true,White,0.3751081256387411,8488,South America,25,4
+861,4,"No preference","Young","Billiards;Museum;Board Games","Road Running;Ski","Mexican;Taiwanese;Japanese;Thai",true,Hispanic,1.1254981634321108,1244,North America,4,2
+862,3,"No preference","Young","Pool;Billiards;Movie Theater","Snowboard;Hiking;Hiking","Korean;Chinese;Japanese;Mexican",true,Black,1.7783701631445967,9063,Europe,28,6
+863,2,"No preference","Senior","Swimming;Billiards","Ski;Trail Running","American;Chinese;Japanese;Thai",false,Indian,0.001996285228941226,4955,Australia,16,4
+864,4,"Female","Young","Board Games;Museum","Snowboard;Biking","Taiwanese;Chinese;Taiwanese;Taiwanese",false,Hispanic,1.9571800456764326,2483,Africa,6,10
+865,2,"Female","Senior","Swimming;Board Games;Pool","Snowboard;Snowboard;Hiking","Chinese;American",true,Latino,1.842606108102285,5530,Africa,17,5
+866,2,"Male","Middle-aged","Movie Theater;Card Games;Museum","Ski;Trail Running","Taiwanese;Vietnamese;Chinese",true,Other,0.8320487144422294,2940,Asia,19,1
+867,4,"Female","Young","Card Games;Pool;Movie Theater","Snowboard;Ski","Japanese;Italian;American",false,Asian,0.3202461443355128,4697,Australia,15,9
+868,4,"No preference","Middle-aged","Movie Theater;Board Games","Ski;Trail Running;Road Running","Korean;Japanese",false,Indian,1.8816412246760543,4884,North America,7,8
+869,4,"Male","Young","Museum;Swimming","Road Running;Snowboard","Chinese;Vietnamese;Vietnamese",true,Black,0.07978232168792537,8323,Australia,5,6
+870,5,"Male","Young","Billiards;Card Games;Swimming","Ski;Road Running;Hiking","Mexican;Korean;Mexican",true,Asian,0.9656382397924795,5045,Africa,1,10
+871,5,"Male","Senior","Museum;Pool;Pool","Hiking;Snowboard;Snowboard","Japanese;Taiwanese;Mexican",true,Black,1.8254655067424275,4044,Africa,11,5
+872,4,"No preference","Middle-aged","Board Games;Museum;Swimming","Hiking;Trail Running;Snowboard","Italian;American",false,Asian,1.5889640097882307,7214,North America,10,9
+873,2,"Female","Young","Board Games;Card Games","Sightseeing;Biking;Biking","Taiwanese;Vietnamese;Korean;Mexican",true,Hispanic,0.5574714633519421,7612,South America,6,9
+874,5,"No preference","Young","Billiards;Museum","Biking;Road Running","Thai;Japanese;American;Taiwanese",true,Latino,0.8974768293551642,4386,Europe,21,4
+875,1,"Male","Young","Board Games;Board Games;Pool","Biking;Snowboard;Ski","Mexican;Chinese",false,Latino,0.3483310772042051,5302,South America,7,3
+876,4,"No preference","Middle-aged","Card Games;Board Games","Ski;Snowboard;Biking","Vietnamese;Chinese;Vietnamese;Vietnamese",true,Latino,0.25290666872048345,5074,Australia,12,9
+877,4,"Female","Middle-aged","Card Games;Billiards;Movie Theater","Sightseeing;Sightseeing","Italian;Thai;Chinese",true,Asian,1.4357886246731542,4696,Asia,8,10
+878,5,"Male","Young","Card Games;Movie Theater","Road Running;Sightseeing;Sightseeing","Chinese;Japanese",true,Black,0.35931993854195815,2461,Australia,28,8
+879,1,"Female","Senior","Billiards;Swimming","Trail Running;Snowboard","Italian;Thai;Japanese;Chinese",false,Latino,0.7409640969770308,9388,Africa,12,3
+880,5,"No preference","Middle-aged","Card Games;Pool;Board Games","Trail Running;Ski","Vietnamese;Thai;Chinese;Italian",true,Hispanic,0.6630328023124621,5507,South America,17,3
+881,4,"Male","Young","Pool;Museum;Billiards","Hiking;Snowboard;Biking","Taiwanese;Italian;Taiwanese",true,Latino,0.8788608792357608,6306,North America,7,1
+882,3,"No preference","Young","Museum;Billiards","Snowboard;Sightseeing;Ski","Japanese;Vietnamese;Vietnamese;American",false,Latino,1.5349820570150765,4873,Asia,19,8
+883,3,"No preference","Young","Billiards;Pool","Snowboard;Hiking;Hiking","Thai;Korean",true,Asian,1.2932082611253362,3279,Europe,22,5
+884,1,"No preference","Senior","Card Games;Movie Theater","Hiking;Sightseeing","Japanese;Italian",true,Hispanic,0.06712593142108077,1506,Africa,1,8
+885,4,"Male","Middle-aged","Billiards;Card Games;Card Games","Ski;Hiking;Hiking","Mexican;Japanese;American;Mexican",true,White,0.1462352152909608,6591,Asia,21,9
+886,2,"Male","Middle-aged","Board Games;Billiards;Museum","Sightseeing;Snowboard;Trail Running","Korean;American;American;Chinese",true,Hispanic,2.2254494778389886,8823,Europe,7,3
+887,1,"Female","Young","Movie Theater;Board Games;Card Games","Sightseeing;Hiking;Trail Running","Japanese;Korean",true,Indian,0.6174267638200344,3793,North America,18,9
+888,1,"No preference","Middle-aged","Board Games;Card Games","Trail Running;Snowboard;Ski","American;Japanese",true,Other,2.166206395098962,2574,Australia,7,6
+889,5,"No preference","Young","Pool;Museum","Snowboard;Snowboard;Hiking","Thai;Chinese;Japanese;American",false,Latino,0.22524064131077082,7870,North America,1,7
+890,4,"Male","Young","Billiards;Movie Theater;Movie Theater","Trail Running;Biking","Taiwanese;Chinese;Korean",false,Black,3.6387425892291443,3718,South America,28,10
+891,3,"Male","Middle-aged","Billiards;Board Games;Movie Theater","Snowboard;Hiking;Sightseeing","Italian;Chinese;Taiwanese",false,Black,0.1131430839970245,6691,Africa,8,10
+892,1,"Male","Middle-aged","Swimming;Swimming;Museum","Snowboard;Hiking;Biking","Japanese;Japanese;Thai;Korean",true,Black,0.06245921074513989,6132,Africa,22,6
+893,4,"Male","Senior","Billiards;Pool;Card Games","Road Running;Hiking;Ski","Japanese;Taiwanese;Japanese",true,White,1.61987775805905,6008,Asia,13,10
+894,4,"No preference","Middle-aged","Movie Theater;Pool","Hiking;Snowboard","Korean;American;Vietnamese;Thai",false,Latino,2.4374126702096173,4607,North America,15,2
+895,4,"No preference","Young","Swimming;Board Games;Movie Theater","Sightseeing;Ski;Biking","Korean;Chinese;Mexican",false,Asian,2.2141125351322426,3959,South America,3,7
+896,1,"No preference","Senior","Pool;Card Games","Trail Running;Road Running;Biking","Vietnamese;Korean;Japanese",true,Hispanic,0.13643408102291363,2567,South America,9,2
+897,1,"Female","Young","Movie Theater;Pool","Hiking;Hiking;Ski","Vietnamese;Korean;Taiwanese",true,Latino,0.061581502049092254,9913,North America,5,9
+898,3,"Male","Middle-aged","Museum;Movie Theater;Board Games","Trail Running;Road Running","Chinese;Italian;Italian",true,Asian,0.9506880273281214,2405,South America,18,7
+899,1,"Male","Middle-aged","Movie Theater;Billiards","Sightseeing;Hiking","Taiwanese;Taiwanese",true,Indian,0.6090297687835409,3259,South America,1,9
+900,5,"Male","Middle-aged","Board Games;Board Games;Swimming","Hiking;Snowboard;Hiking","Japanese;Mexican",false,Hispanic,1.485284241238834,9049,Australia,6,8
+901,3,"Male","Senior","Card Games;Board Games","Sightseeing;Snowboard","Japanese;Thai",true,White,2.194686382034242,4337,Australia,14,8
+902,5,"Female","Senior","Swimming;Billiards","Sightseeing;Trail Running;Hiking","Italian;Taiwanese;Japanese;Italian",false,White,1.095275709654695,2190,Asia,9,8
+903,4,"No preference","Middle-aged","Billiards;Movie Theater;Pool","Ski;Sightseeing","Mexican;Korean;Mexican;Taiwanese",false,Black,1.6842237501811144,8383,Europe,7,7
+904,1,"Female","Young","Swimming;Billiards;Card Games","Trail Running;Snowboard","American;Korean;American;Korean",false,Black,0.5389074025524798,3889,Africa,8,3
+905,5,"No preference","Senior","Billiards;Billiards","Sightseeing;Trail Running","Italian;Vietnamese",false,White,0.8017918325260497,1391,South America,23,2
+906,4,"No preference","Middle-aged","Swimming;Card Games;Card Games","Ski;Snowboard","Thai;Mexican;Korean;Taiwanese",false,Asian,1.459588401168023,9814,Asia,18,5
+907,5,"Female","Middle-aged","Movie Theater;Museum;Swimming","Trail Running;Hiking","Thai;Korean",true,Hispanic,0.39087013249250996,1465,North America,11,2
+908,1,"No preference","Young","Museum;Card Games","Biking;Biking;Trail Running","Taiwanese;Italian;Italian;Italian",false,Hispanic,0.2917639111836084,1272,North America,7,10
+909,1,"Male","Young","Board Games;Museum;Swimming","Trail Running;Sightseeing","Korean;Taiwanese;Chinese;Vietnamese",false,Latino,0.2407117811647898,6873,Europe,2,8
+910,1,"No preference","Young","Board Games;Pool;Card Games","Trail Running;Road Running","American;Taiwanese;Thai",false,White,0.3540817162754111,5762,Australia,24,7
+911,3,"No preference","Young","Card Games;Movie Theater","Snowboard;Road Running;Biking","Taiwanese;Mexican;Taiwanese",true,Latino,0.2053592465451142,3455,Australia,13,9
+912,5,"No preference","Middle-aged","Swimming;Card Games","Snowboard;Hiking;Hiking","Mexican;Chinese;Korean;Mexican",true,Asian,0.9063706176354754,5559,Europe,4,9
+913,3,"Female","Senior","Board Games;Movie Theater","Biking;Hiking;Hiking","Chinese;Japanese;American;Taiwanese",true,Black,0.7563977113284835,4423,Australia,21,9
+914,3,"Female","Senior","Museum;Board Games;Museum","Snowboard;Trail Running","Vietnamese;Vietnamese",true,Latino,0.20774018520403847,6069,Africa,28,5
+915,4,"Female","Middle-aged","Movie Theater;Movie Theater","Road Running;Trail Running;Sightseeing","Japanese;Taiwanese;Taiwanese;Taiwanese",true,Asian,0.22446762286396565,5566,North America,9,7
+916,1,"No preference","Young","Board Games;Swimming","Trail Running;Snowboard;Snowboard","Thai;Taiwanese;Taiwanese",false,Hispanic,0.3814756776938425,8284,Australia,21,3
+917,3,"Male","Young","Museum;Movie Theater;Board Games","Trail Running;Sightseeing;Ski","Italian;Taiwanese",true,Latino,2.707111848431688,5433,Asia,18,7
+918,4,"Male","Senior","Swimming;Movie Theater;Board Games","Hiking;Biking;Hiking","Korean;Vietnamese",true,Asian,2.4103310587157405,9997,South America,28,9
+919,2,"Female","Middle-aged","Swimming;Board Games;Museum","Trail Running;Ski;Sightseeing","Japanese;Korean;Italian;Mexican",false,Indian,0.1811217255809255,2747,Europe,4,10
+920,2,"Female","Senior","Movie Theater;Pool;Pool","Hiking;Biking","Japanese;Thai",false,Hispanic,4.055738506276539,6011,Africa,20,7
+921,1,"No preference","Young","Billiards;Billiards;Billiards","Ski;Ski;Trail Running","Japanese;Vietnamese;Korean",false,White,0.31196605285940127,5272,Asia,10,4
+922,2,"Male","Young","Swimming;Pool;Billiards","Trail Running;Sightseeing","Italian;Thai",false,Other,0.2817155281517489,4683,Africa,8,1
+923,1,"Female","Young","Board Games;Museum","Road Running;Snowboard","Mexican;American;Japanese;Thai",false,Black,0.32108377630239227,8363,Europe,23,6
+924,4,"Male","Senior","Movie Theater;Card Games;Card Games","Biking;Snowboard;Road Running","Mexican;Chinese",false,Hispanic,0.5808638131220465,1576,Asia,11,9
+925,4,"No preference","Senior","Museum;Pool","Ski;Biking","Italian;Mexican;Chinese",false,Black,0.3708249675892396,9561,South America,10,2
+926,4,"Male","Young","Card Games;Pool","Biking;Biking;Hiking","Mexican;Thai;Vietnamese;Italian",false,Other,1.7259750632165807,6185,Africa,27,10
+927,5,"Female","Young","Card Games;Billiards","Trail Running;Hiking;Biking","Japanese;American;Japanese;American",false,Hispanic,2.477057932713524,2180,South America,10,7
+928,1,"Male","Middle-aged","Card Games;Pool;Movie Theater","Hiking;Road Running","Korean;Vietnamese",false,Latino,0.16207191712827043,4076,South America,19,8
+929,2,"Male","Young","Board Games;Museum","Snowboard;Ski","Italian;Taiwanese",true,Asian,4.388350822364901,3473,South America,3,7
+930,5,"Male","Senior","Billiards;Swimming","Biking;Hiking","Thai;Taiwanese",false,White,1.3526560876555633,4899,Asia,11,10
+931,5,"Male","Middle-aged","Billiards;Billiards","Snowboard;Sightseeing","Japanese;Mexican",false,Indian,0.4632481010026777,3294,Asia,13,6
+932,2,"Male","Senior","Museum;Board Games;Card Games","Biking;Trail Running","Thai;Thai",false,Other,0.037046234853855525,7965,Australia,30,8
+933,4,"Male","Young","Swimming;Board Games","Biking;Trail Running","Mexican;Korean;Taiwanese;Thai",true,Black,1.3942422969164932,9117,South America,3,4
+934,1,"No preference","Senior","Museum;Movie Theater;Billiards","Road Running;Snowboard","Korean;Thai;Taiwanese;Vietnamese",false,White,0.56401781890807,3980,Africa,28,7
+935,2,"Female","Middle-aged","Swimming;Board Games;Billiards","Snowboard;Ski;Biking","Chinese;Chinese;Italian",false,Indian,0.015236914012488145,4097,Asia,18,2
+936,1,"Female","Senior","Movie Theater;Billiards","Sightseeing;Biking","Taiwanese;Japanese",false,Asian,0.5281939649654654,4969,South America,27,6
+937,2,"Male","Young","Movie Theater;Board Games;Pool","Snowboard;Snowboard","American;Vietnamese;Italian;Korean",false,White,1.6867416484669766,8399,North America,1,10
+938,4,"Male","Middle-aged","Pool;Board Games;Billiards","Road Running;Sightseeing","Mexican;Mexican",false,White,0.5482254364920244,6278,South America,14,6
+939,3,"Male","Middle-aged","Movie Theater;Board Games","Ski;Road Running;Sightseeing","American;Vietnamese;Vietnamese;Vietnamese",true,Black,0.75531348520891,6366,Africa,19,2
+940,4,"Male","Senior","Board Games;Movie Theater","Sightseeing;Trail Running;Hiking","Thai;Taiwanese",false,White,0.7323810060673639,4630,South America,30,5
+941,1,"No preference","Young","Billiards;Card Games","Ski;Hiking","Korean;Mexican;Chinese",false,White,1.2150364535590865,9464,Asia,10,4
+942,5,"Male","Senior","Movie Theater;Card Games","Road Running;Road Running;Biking","Japanese;Italian;Chinese;Taiwanese",true,Other,0.05209888811445276,8660,Australia,26,10
+943,3,"No preference","Middle-aged","Billiards;Pool;Pool","Road Running;Snowboard","Japanese;Mexican;Mexican;Italian",false,Other,1.6958693764736648,5783,South America,10,10
+944,5,"Female","Middle-aged","Pool;Board Games;Board Games","Road Running;Road Running","American;Thai;Taiwanese;Taiwanese",false,Latino,1.4166065944547603,4208,Africa,21,1
+945,4,"Male","Middle-aged","Billiards;Board Games","Sightseeing;Ski","Chinese;Korean;American",true,Black,0.37143189781439506,3749,Europe,30,7
+946,2,"Female","Middle-aged","Pool;Pool","Road Running;Ski;Ski","American;Taiwanese;Vietnamese;Vietnamese",false,Latino,0.8480555479878403,6181,Africa,23,4
+947,2,"No preference","Middle-aged","Card Games;Swimming","Ski;Biking;Sightseeing","Italian;Japanese;Taiwanese;Taiwanese",false,Hispanic,5.09377057418423,2182,Europe,4,4
+948,5,"No preference","Middle-aged","Billiards;Board Games","Road Running;Sightseeing","Taiwanese;Thai",true,Asian,0.06749132607525447,5847,Asia,17,9
+949,2,"No preference","Middle-aged","Billiards;Board Games","Trail Running;Snowboard","Italian;Italian",false,Latino,1.0844940974826949,4844,South America,24,3
+950,5,"Female","Senior","Card Games;Pool;Billiards","Biking;Ski","Japanese;Taiwanese",false,White,2.0756587839646587,7741,Australia,19,5
+951,3,"Male","Middle-aged","Movie Theater;Movie Theater","Hiking;Hiking;Biking","Taiwanese;Thai",true,Other,0.7090525125297171,8259,Europe,15,8
+952,5,"Female","Young","Card Games;Swimming","Biking;Trail Running;Sightseeing","Vietnamese;Mexican;Korean;Chinese",true,Latino,0.43907847992033094,9835,Australia,26,8
+953,1,"Male","Senior","Pool;Movie Theater","Biking;Biking;Snowboard","Chinese;American;American;Korean",true,White,0.47608054387147464,4293,Europe,12,6
+954,4,"Male","Young","Board Games;Swimming;Billiards","Road Running;Snowboard;Hiking","Taiwanese;Japanese",true,Hispanic,0.01242430807425846,6566,North America,16,1
+955,2,"Female","Young","Card Games;Pool","Trail Running;Trail Running;Road Running","Thai;Italian;Vietnamese",true,White,5.270350099399498E-5,1861,Asia,13,3
+956,5,"Female","Young","Card Games;Billiards","Road Running;Hiking","Italian;Thai;Korean",false,Hispanic,4.094960472434774,5455,North America,30,9
+957,4,"Female","Young","Card Games;Card Games;Swimming","Road Running;Biking;Trail Running","Vietnamese;Korean;American;Mexican",false,Hispanic,0.15786144522131593,1348,Australia,18,8
+958,3,"Male","Middle-aged","Movie Theater;Billiards","Snowboard;Hiking","Italian;Taiwanese",true,Hispanic,0.13295254458687822,4505,Africa,14,7
+959,1,"Female","Young","Billiards;Pool;Museum","Road Running;Road Running;Sightseeing","Chinese;Thai;Vietnamese",true,Other,0.0726013081301154,9259,Africa,4,8
+960,5,"Female","Young","Pool;Swimming;Board Games","Sightseeing;Biking;Ski","Thai;Italian;Mexican",true,Other,0.596243040304457,2368,Africa,12,2
+961,3,"No preference","Young","Movie Theater;Pool;Swimming","Road Running;Road Running","Korean;Chinese;Korean",true,Latino,2.39473642086178,7257,South America,8,7
+962,5,"No preference","Senior","Movie Theater;Swimming;Billiards","Ski;Sightseeing;Trail Running","Japanese;Vietnamese",false,Asian,0.014740274920573981,3599,North America,25,7
+963,1,"Female","Middle-aged","Pool;Pool;Billiards","Sightseeing;Sightseeing","Mexican;Italian",true,Indian,1.2277467807486628,1871,Europe,29,4
+964,1,"Female","Senior","Swimming;Card Games;Museum","Sightseeing;Snowboard","American;Korean;Thai;Korean",false,Other,0.8725480362851538,4414,Africa,23,2
+965,4,"Female","Young","Card Games;Billiards;Card Games","Biking;Hiking;Trail Running","Thai;Vietnamese;Chinese",false,Black,0.8791316696709474,1376,North America,8,4
+966,5,"Male","Senior","Swimming;Board Games;Movie Theater","Ski;Hiking","American;Japanese;Taiwanese;Vietnamese",false,Black,0.1364906197800543,9050,Europe,4,3
+967,4,"Female","Middle-aged","Card Games;Billiards;Museum","Snowboard;Hiking;Snowboard","Mexican;Chinese;Thai;Italian",true,Other,1.5993810296479258,1999,Europe,26,8
+968,4,"Female","Young","Swimming;Movie Theater;Board Games","Sightseeing;Sightseeing","Thai;Taiwanese;Taiwanese;Thai",false,Indian,0.4290319137161997,8437,Africa,12,9
+969,3,"Female","Young","Museum;Card Games;Billiards","Ski;Snowboard","Vietnamese;Taiwanese",false,Other,1.4209129689630426,2162,South America,24,10
+970,4,"Female","Middle-aged","Swimming;Billiards","Sightseeing;Ski;Road Running","American;American;Italian",false,Black,0.2512695255374273,9497,Australia,13,7
+971,3,"Male","Senior","Board Games;Movie Theater","Snowboard;Snowboard","Vietnamese;Taiwanese;Thai;Thai",false,Asian,0.2086096280853604,4667,Australia,15,9
+972,3,"Male","Senior","Board Games;Billiards;Card Games","Road Running;Road Running","Chinese;Chinese",false,White,1.0462387496340522,5268,South America,30,3
+973,4,"Female","Senior","Board Games;Billiards;Museum","Hiking;Road Running","Chinese;American",false,Indian,0.5909001655988303,7381,North America,16,4
+974,2,"Female","Middle-aged","Movie Theater;Swimming;Card Games","Biking;Road Running;Ski","Thai;Korean;Italian",true,Hispanic,0.8453166776127604,7109,South America,7,5
+975,3,"Female","Middle-aged","Swimming;Museum;Card Games","Snowboard;Biking;Biking","Japanese;Thai;American",false,Black,0.2728396305086608,2883,North America,27,6
+976,4,"Male","Young","Movie Theater;Swimming","Hiking;Sightseeing","Mexican;Japanese",true,Black,0.08800942369147541,9042,South America,27,2
+977,2,"Male","Senior","Card Games;Billiards;Swimming","Sightseeing;Trail Running;Trail Running","Japanese;Taiwanese",false,Indian,2.248890477115973,6680,North America,21,5
+978,1,"Female","Young","Pool;Pool","Ski;Road Running;Hiking","Thai;Taiwanese",true,Asian,0.5900806817056946,1891,Africa,28,10
+979,4,"Female","Middle-aged","Swimming;Pool","Sightseeing;Biking;Road Running","Italian;Taiwanese;Vietnamese",true,Indian,1.7252509486520449,9407,Asia,30,7
+980,3,"No preference","Senior","Movie Theater;Swimming;Museum","Ski;Snowboard","Korean;Mexican;Taiwanese;Korean",false,Other,0.7525391966427342,9979,Asia,16,10
+981,4,"No preference","Young","Movie Theater;Billiards;Movie Theater","Trail Running;Hiking","Chinese;American",false,White,1.53340071055513,3523,North America,20,5
+982,1,"No preference","Middle-aged","Board Games;Museum","Sightseeing;Hiking;Ski","Thai;Taiwanese",true,Black,1.5050478815841926,8335,Europe,27,4
+983,2,"Female","Young","Card Games;Pool;Billiards","Biking;Sightseeing","Mexican;Vietnamese;Mexican",true,Latino,0.040013449124966516,5221,South America,5,9
+984,5,"No preference","Middle-aged","Card Games;Billiards","Road Running;Biking;Biking","Taiwanese;Vietnamese",true,Other,0.4426080372672819,8361,Australia,18,3
+985,3,"Female","Senior","Card Games;Board Games","Snowboard;Ski","Chinese;Vietnamese;Japanese",false,Other,0.7231554061174674,3514,Africa,13,6
+986,2,"No preference","Middle-aged","Card Games;Card Games;Swimming","Ski;Trail Running","Vietnamese;American;Korean;Chinese",true,White,0.6901083629115707,9971,Africa,12,3
+987,1,"Male","Middle-aged","Museum;Billiards;Movie Theater","Sightseeing;Hiking;Snowboard","Thai;Chinese;Thai;Japanese",true,Indian,2.1911124857460633,4954,Australia,10,5
+988,1,"Female","Young","Board Games;Movie Theater;Museum","Sightseeing;Snowboard;Ski","Taiwanese;Italian;Japanese;Chinese",false,Black,0.4430796241210741,4450,Asia,13,5
+989,1,"Female","Middle-aged","Museum;Pool;Pool","Biking;Biking;Ski","Taiwanese;Korean;Japanese",true,Black,2.217463831968232,1383,North America,10,1
+990,1,"Male","Young","Board Games;Movie Theater;Board Games","Snowboard;Hiking;Trail Running","Thai;Thai;Italian;Vietnamese",true,Other,0.3280696926645512,4433,North America,23,3
+991,2,"Male","Young","Movie Theater;Movie Theater;Museum","Biking;Sightseeing","Chinese;Thai;Japanese",false,Asian,0.09728273424023053,6009,Australia,5,6
+992,4,"Male","Middle-aged","Card Games;Movie Theater;Board Games","Trail Running;Sightseeing;Sightseeing","American;Korean;Korean",false,Asian,1.350158566646403,8653,North America,17,6
+993,2,"No preference","Middle-aged","Pool;Swimming;Pool","Snowboard;Ski","Taiwanese;Japanese;Chinese",false,Asian,0.776138291294746,2564,North America,7,5
+994,5,"No preference","Young","Museum;Board Games","Sightseeing;Ski;Biking","Chinese;Thai;American;Vietnamese",true,Latino,0.7349284334481507,9052,Europe,29,2
+995,4,"Female","Senior","Billiards;Movie Theater","Road Running;Snowboard;Biking","Mexican;Italian;Vietnamese;Japanese",false,Indian,0.6608843489163028,8055,Africa,1,1
+996,3,"Female","Middle-aged","Card Games;Board Games","Road Running;Sightseeing;Sightseeing","Korean;Thai;Japanese;American",false,Other,2.803602479106203,9929,North America,16,3
+997,4,"Male","Middle-aged","Board Games;Billiards;Swimming","Road Running;Ski","Taiwanese;Mexican;Thai",false,Other,1.9510229424235133,8147,Africa,18,9
+998,4,"No preference","Middle-aged","Swimming;Card Games","Biking;Sightseeing;Ski","Taiwanese;Korean",true,Hispanic,0.31593750288307915,6226,North America,3,10
+999,5,"No preference","Middle-aged","Board Games;Card Games","Hiking;Sightseeing;Sightseeing","Mexican;Thai;American;Korean",true,Other,0.8195862712765857,2789,South America,21,10
+1000,5,"Male","Middle-aged","Card Games;Pool","Snowboard;Hiking;Sightseeing","Japanese;Chinese;Japanese",false,White,0.1899308313607461,2967,Africa,1,4
