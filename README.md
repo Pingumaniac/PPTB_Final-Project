@@ -1,5 +1,5 @@
 # PPTB_Final_Project
-CS 8395 Security and Privacy in Pervasive Computing Final Project
+Spring 2024 CS 8395 Security and Privacy in Pervasive Computing Final Project at Vanderbilt University
 
 ## About Members
 
